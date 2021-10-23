@@ -40,7 +40,7 @@ function randomIntInterval(min, max) {
 
 
 function createBallsFromFile() {
-    readTextFile("/data/classes.json", function(text) {
+    readTextFile("visualization/data/classes.json", function(text) {
         let data = JSON.parse(text)
         for (let i in data) {
             let class_ = data[i]
