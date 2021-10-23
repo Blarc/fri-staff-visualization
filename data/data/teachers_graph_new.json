@@ -1,0 +1,3313 @@
+{
+    "Igor Rožanc": {
+        "Algoritmi in podatkovne strukture 1 (63711)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 3,
+                "dayFRI": 1
+            }
+        },
+        "Tehnologija programske opreme (63732)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jurij Mihelič": {
+        "Algoritmi in podatkovne strukture 1 (63711)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Petar Vračar": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 3,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        },
+        "Strojno učenje (63519)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Umetna inteligenca (63720)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Bojan Žunkovič": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Igor Kononenko": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Strojno učenje (63519)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Umetna inteligenca (63720)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Erik Štrumbelj": {
+        "Bayesova statistika (63563)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Načela negotovosti (63564)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jure Demšar": {
+        "Bayesova statistika (63563)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Mira Trebar": {
+        "Digitalna vezja (63718)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Osnove digitalnih vezij (63204)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Računalniška arhitektura (63703)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Ratko Pilipović": {
+        "Digitalno načrtovanje (63260)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Organizacija računalniških sistemov (63218)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 3,
+                "dayWED": 0,
+                "dayTHU": 2,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Nejc Ilc": {
+        "Digitalno načrtovanje (63260)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Procesna avtomatika (63737)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Sistemska programska oprema (63736)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Gašper Fijavž": {
+        "Diskretne strukture (63203)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Damir Franetič": {
+        "Diskretne strukture (63203)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        },
+        "Matematika (63704)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        },
+        "Matematika 1 (63506)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Matematika 1 (63506A)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleksandra Franc": {
+        "Diskretne strukture (63203)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        },
+        "Osnove matematične analize (63202)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        },
+        "Topološka analiza podatkov (63542)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Daša Štesl": {
+        "Diskretne strukture (63705)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Matematika (63704)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jelena Klisara": {
+        "Diskretne strukture (63705)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        },
+        "Osnove matematične analize (63202)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Aljaž Zalar": {
+        "Diskretne strukture (63705)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Numerične metode (63742)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Tomaž Hovelja": {
+        "Ekonomika in podjetništvo (63248)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Iztok Lapanja": {
+        "Elektronsko in mobilno poslovanje (63712)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Rok Rupnik": {
+        "Elektronsko in mobilno poslovanje (63712)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Planiranje in upravljanje informatike (63768)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "David Jelenc": {
+        "Elektronsko poslovanje (63249)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Informacijska varnost in zasebnost (63521)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Denis Trček": {
+        "Elektronsko poslovanje (63249)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Informacijska varnost in zasebnost (63521)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Računalniška zvočna produkcija (63523)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Andrej Lozar": {
+        "Fizika (63205)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Andrej PETELIN": {
+        "Fizika (63205)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Žiga Gosar": {
+        "Fizika (63205)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jaka VODEB": {
+        "Fizika (63205)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Borut Paul Kerševan": {
+        "Fizika (63205)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Zoran Bosnić": {
+        "Funkcijsko programiranje (63507)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Izbrana poglavja iz umetne inteligence 1 (63834)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Osnove umetne inteligence (63214)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Klemen Klanjšček": {
+        "Funkcijsko programiranje (63507)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        },
+        "Kriptografija in računalniška varnost (63528)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Blaž Meden": {
+        "Grafično oblikovanje (63715)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Iztok Lebar Bajec": {
+        "Grafično oblikovanje (63715)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        },
+        "Računalniška grafika (63719)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Skupinsko vedenje (63558)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Narvika Bovcon": {
+        "Grafično oblikovanje (63715)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Miha Grohar": {
+        "Informacijski sistemi (63714)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Damjan Vavpotič": {
+        "Informacijski sistemi (63714)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Blaž Škrlj": {
+        "Inteligentni sistemi (63266)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Tadej Škvorc": {
+        "Inteligentni sistemi (63266)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Marko Robnik Šikonja": {
+        "Inteligentni sistemi (63266)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Borut Batagelj": {
+        "Interaktivnost in oblikovanje informacij (63527)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Franc Solina": {
+        "Interaktivnost in oblikovanje informacij (63527)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Veljko Pejović": {
+        "Izbrana poglavja iz računalniških sistemov 2 (63831)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleš Špetič": {
+        "Izbrana poglavja iz računalništva in informatike (63749B)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "UroŠ Čibej": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Tehnične veščine (63284D)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Luka Fuerst": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        },
+        "Programiranje 1 (63277)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "PROSTO PROSTO": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Borut Robič": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Franc Jager": {
+        "Komunikacija človek računalnik (63550)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Obdelava biomedicinskih signalov in slik (63514)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleš Smrdel": {
+        "Komunikacija človek računalnik (63550)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Aleks Huč": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        },
+        "Računalniška zvočna produkcija (63523)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Andrej Brodnik": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Gašper Fele Žorž": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleksandar Jurišić": {
+        "Kriptografija in računalniška varnost (63528)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Verjetnost in statistika (63213)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Janoš Vidali": {
+        "Kriptografija in računalniška varnost (63528)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Damjan KOBAL": {
+        "Matematika (63704)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Peter Marijan Kink": {
+        "Matematika 1 (63506)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Numerične metode (63742)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Osnove matematične analize (63202)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        },
+        "Verjetnost in statistika (63213)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Polona Oblak": {
+        "Matematika 1 (63506)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Matematika 1 (63506A)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Miha Mraz": {
+        "Modeliranje računalniških omrežij (63257)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Nekonvencionalne platforme in metode procesiranja (63512)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Miha Janež": {
+        "Modeliranje računalniških omrežij (63257)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        },
+        "Nekonvencionalne platforme in metode procesiranja (63512)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Matevž Pesek": {
+        "Multimedijske tehnologije (63734)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Alenka Kavčič": {
+        "Multimedijske tehnologije (63734)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Luka Čehovin Zajc": {
+        "Multimedijski sistemi (63270)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        },
+        "Robotika in računalniško zaznavanje (63739)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Gregor Pirš": {
+        "Načela negotovosti (63564)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Žiga Pirnar": {
+        "Obdelava biomedicinskih signalov in slik (63514)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 4,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Martin Možina": {
+        "Odločitveni sistemi (63741)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleksander Sadikov": {
+        "Odločitveni sistemi (63741)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Robert Rozman": {
+        "Organizacija računalnikov (63717)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 3
+            }
+        },
+        "Računalniška arhitektura (63703)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 3,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Rok Češnovar": {
+        "Organizacija računalnikov (63717)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Računalniška arhitektura (63703)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Vgrajeni sistemi (63738)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Patricio Bulić": {
+        "Organizacija računalniških sistemov (63218)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Vgrajeni sistemi (63738)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Žiga Pušnik": {
+        "Osnove digitalnih vezij (63204)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 4,
+                "dayTHU": 1,
+                "dayFRI": 3
+            }
+        },
+        "Računalniška arhitektura (63703)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 3,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Lidija Stanovnik": {
+        "Osnove digitalnih vezij (63204)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Nikolaj Zimic": {
+        "Osnove digitalnih vezij (63204)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jure Žabkar": {
+        "Osnove kreativnega programiranja (FA) (FA0001)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Osnove umetne inteligence (63214)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 2
+            }
+        },
+        "Programiranje 1 (63277)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 2,
+                "dayWED": 2,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Janez ŠTER": {
+        "Osnove matematične analize (63202)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Lovro Šubelj": {
+        "Osnove podatkovnih baz (63208)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Marko Rus": {
+        "Osnove podatkovnih baz (63208)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        },
+        "Umetno zaznavanje (63267)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Timotej Knez": {
+        "Osnove podatkovnih baz (63208)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Marko Bajec": {
+        "Osnove podatkovnih baz (63208)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Bojan Klemenc": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        },
+        "Tehnologija iger in navidezna resničnost (63740)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Miha Moškon": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Anita Valmarska": {
+        "Osnove umetne inteligence (63214)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Aleš Papič": {
+        "Osnove umetne inteligence (63214)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Damjan Fujs": {
+        "Planiranje in upravljanje informatike (63768)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Tehnologija programske opreme (63732)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 1,
+                "dayWED": 3,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aljaž Zrnec": {
+        "Podatkovne baze 2 (63713)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Davor Sluga": {
+        "Porazdeljeni sistemi (63261)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Uroš Lotrič": {
+        "Porazdeljeni sistemi (63261)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Melanija Vezočnik": {
+        "Postopki razvoja programske opreme (63254)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Računalniške storitve v oblaku (63541)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Matjaž Jurič": {
+        "Postopki razvoja programske opreme (63254)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Računalniške storitve v oblaku (63541)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Janez Demšar": {
+        "Programiranje (63502)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Programiranje 1 (63702)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Pavlin Poličar": {
+        "Programiranje 1 (63702)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 2,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Uvod v bioinformatiko (63520)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Tomaž Hočevar": {
+        "Programiranje 1 (63702)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 2,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Primož Godec": {
+        "Programiranje 1 (63702)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Marko Poženel": {
+        "Programiranje 1 (63277)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 2,
+                "dayFRI": 3
+            }
+        }
+    },
+    "Žiga Lesar": {
+        "Računalniška grafika (63719)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Računalniška grafika in tehnologija iger (63269)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 2,
+                "dayWED": 3,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Matija Marolt": {
+        "Računalniška grafika in tehnologija iger (63269)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Računalniška podpora oblikovanju I (ALUO) (90066)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Danijel Skočaj": {
+        "Robotika in računalniško zaznavanje (63739)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Tomaž Curk": {
+        "Seminar 1 in Seminar 3 (S1S3)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Uvod v bioinformatiko (63520)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Uvod v podatkovne vede (63565)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Veščine v znanstvenem delu 1 (63802)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Tomaž Dobravec": {
+        "Sistemska programska oprema (63264)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Timotej Lazar": {
+        "Sistemska programska oprema (63264)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Branko Šter": {
+        "Sistemska programska oprema (63736)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Žiga Emeršič": {
+        "Slikovna biometrija (63554)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 2,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Peter Peer": {
+        "Slikovna biometrija (63554)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Sandi Gec": {
+        "Spletno programiranje (63255)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 2,
+                "dayTHU": 2,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Dejan Lavbič": {
+        "Spletno programiranje (63255)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Matej Pičulin": {
+        "Strojno učenje (63519)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 2,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Matjaž Pančur": {
+        "Tehnične veščine (63767A)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Aleš Jaklič": {
+        "Tehnologija iger in navidezna resničnost (63740)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Matjaž Kukar": {
+        "Tehnologija upravljanja podatkov (63226)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Luka Šajn": {
+        "Tehnologija upravljanja podatkov (63226)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 2
+            }
+        }
+    },
+    "Neža Mramor-Kosta": {
+        "Topološka analiza podatkov (63542)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Ivan Bratko": {
+        "Umetna inteligenca 1 (63501)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Jon Muhovič": {
+        "Umetno zaznavanje (63267)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 2,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 1
+            }
+        }
+    },
+    "Matej Kristan": {
+        "Umetno zaznavanje (63267)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Slavko Žitnik": {
+        "Uvod v podatkovne vede (63565)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Rok Gomišček": {
+        "Uvod v računalništvo (63701)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 1,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Petar Kochovski": {
+        "Uvod v računalništvo (63701)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 1,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        },
+        "Varnost komunikacij in zaščita vsebin (63289)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Vlado Stankovski": {
+        "Uvod v računalništvo (63701)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        },
+        "Varnost komunikacij in zaščita vsebin (63289)": {
+            "professor": true,
+            "lectures": {
+                "dayMON": 1,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Uroš Paščinski": {
+        "Uvod v računalništvo (63701)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 1,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Matej Dobrevski": {
+        "Uvod v računalništvo (63701)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 0,
+                "dayTUE": 2,
+                "dayWED": 1,
+                "dayTHU": 0,
+                "dayFRI": 0
+            }
+        }
+    },
+    "Kristina Veljković": {
+        "Verjetnost in statistika (63213)": {
+            "professor": false,
+            "lectures": {
+                "dayMON": 0,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 0,
+                "dayFRI": 0
+            },
+            "labs": {
+                "dayMON": 3,
+                "dayTUE": 0,
+                "dayWED": 0,
+                "dayTHU": 1,
+                "dayFRI": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,500 @@
+[
+    {
+        "name": "Algoritmi in podatkovne strukture 1 (63711)",
+        "short": "AiPS1",
+        "id": "63711",
+        "size": 10
+    },
+    {
+        "name": "Algoritmi in podatkovne strukture 1 (63279)",
+        "short": "APS1",
+        "id": "63279",
+        "size": 10
+    },
+    {
+        "name": "Bayesova statistika (63563)",
+        "short": "BS",
+        "id": "63563",
+        "size": 2
+    },
+    {
+        "name": "Digitalna vezja (63718)",
+        "short": "DV",
+        "id": "63718",
+        "size": 3
+    },
+    {
+        "name": "Digitalno načrtovanje (63260)",
+        "short": "DN",
+        "id": "63260",
+        "size": 3
+    },
+    {
+        "name": "Diskretne strukture (63203)",
+        "short": "DS",
+        "id": "63203",
+        "size": 8
+    },
+    {
+        "name": "Diskretne strukture (63705)",
+        "short": "DS",
+        "id": "63705",
+        "size": 10
+    },
+    {
+        "name": "Ekonomika in podjetništvo (63248)",
+        "short": "EiP",
+        "id": "63248",
+        "size": 4
+    },
+    {
+        "name": "Elektronsko in mobilno poslovanje (63712)",
+        "short": "EMP",
+        "id": "63712",
+        "size": 6
+    },
+    {
+        "name": "Elektronsko poslovanje (63249)",
+        "short": "EP",
+        "id": "63249",
+        "size": 4
+    },
+    {
+        "name": "Fizika (63205)",
+        "short": "F",
+        "id": "63205",
+        "size": 8
+    },
+    {
+        "name": "Funkcijsko programiranje (63507)",
+        "short": "P",
+        "id": "63507",
+        "size": 4
+    },
+    {
+        "name": "Grafično oblikovanje (63715)",
+        "short": "GO",
+        "id": "63715",
+        "size": 8
+    },
+    {
+        "name": "Informacijska varnost in zasebnost (63521)",
+        "short": "IVZ",
+        "id": "63521",
+        "size": 4
+    },
+    {
+        "name": "Informacijski sistemi (63714)",
+        "short": "IS",
+        "id": "63714",
+        "size": 5
+    },
+    {
+        "name": "Inteligentni sistemi (63266)",
+        "short": "IS",
+        "id": "63266",
+        "size": 6
+    },
+    {
+        "name": "Interaktivnost in oblikovanje informacij (63527)",
+        "short": "IOI",
+        "id": "63527",
+        "size": 5
+    },
+    {
+        "name": "Izbrana poglavja iz računalniških sistemov 2 (63831)",
+        "short": "IPIRS2",
+        "id": "63831",
+        "size": 1
+    },
+    {
+        "name": "Izbrana poglavja iz računalništva in informatike (63749B)",
+        "short": "IPIRI",
+        "id": "63749B",
+        "size": 1
+    },
+    {
+        "name": "Izbrana poglavja iz umetne inteligence 1 (63834)",
+        "short": "IPIUI1",
+        "id": "63834",
+        "size": 1
+    },
+    {
+        "name": "Izbrana poglavja iz umetne inteligence 2 (63835E)",
+        "short": "IPIUI2",
+        "id": "63835E",
+        "size": 1
+    },
+    {
+        "name": "Izračunljivost in računska zahtevnost (63283)",
+        "short": "IRZ",
+        "id": "63283",
+        "size": 11
+    },
+    {
+        "name": "Komunikacija človek računalnik (63550)",
+        "short": "KČR",
+        "id": "63550",
+        "size": 4
+    },
+    {
+        "name": "Komunikacijski protokoli in omrežna varnost (63716)",
+        "short": "KPOV",
+        "id": "63716",
+        "size": 7
+    },
+    {
+        "name": "Kriptografija in računalniška varnost (63528)",
+        "short": "KRV",
+        "id": "63528",
+        "size": 3
+    },
+    {
+        "name": "Matematika (63704)",
+        "short": "M",
+        "id": "63704",
+        "size": 10
+    },
+    {
+        "name": "Matematika 1 (63506)",
+        "short": "MI",
+        "id": "63506",
+        "size": 6
+    },
+    {
+        "name": "Matematika 1 (63506A)",
+        "short": "MI",
+        "id": "63506A",
+        "size": 4
+    },
+    {
+        "name": "Modeliranje računalniških omrežij (63257)",
+        "short": "MRO",
+        "id": "63257",
+        "size": 3
+    },
+    {
+        "name": "Multimedijske tehnologije (63734)",
+        "short": "MT",
+        "id": "63734",
+        "size": 2
+    },
+    {
+        "name": "Multimedijski sistemi (63270)",
+        "short": "MS",
+        "id": "63270",
+        "size": 6
+    },
+    {
+        "name": "Načela negotovosti (63564)",
+        "short": "NN",
+        "id": "63564",
+        "size": 2
+    },
+    {
+        "name": "Nekonvencionalne platforme in metode procesiranja (63512)",
+        "short": "NPMP",
+        "id": "63512",
+        "size": 4
+    },
+    {
+        "name": "Numerične metode (63742)",
+        "short": "NM",
+        "id": "63742",
+        "size": 3
+    },
+    {
+        "name": "Obdelava biomedicinskih signalov in slik (63514)",
+        "short": "OBSS",
+        "id": "63514",
+        "size": 5
+    },
+    {
+        "name": "Odločitveni sistemi (63741)",
+        "short": "OS",
+        "id": "63741",
+        "size": 4
+    },
+    {
+        "name": "Organizacija računalnikov (63717)",
+        "short": "OR",
+        "id": "63717",
+        "size": 5
+    },
+    {
+        "name": "Organizacija računalniških sistemov (63218)",
+        "short": "ORS",
+        "id": "63218",
+        "size": 9
+    },
+    {
+        "name": "Osnove digitalnih vezij (63204)",
+        "short": "ODV",
+        "id": "63204",
+        "size": 17
+    },
+    {
+        "name": "Osnove kreativnega programiranja (FA) (FA0001)",
+        "short": "OKP",
+        "id": "FA0001",
+        "size": 1
+    },
+    {
+        "name": "Osnove matematične analize (63202)",
+        "short": "OMA",
+        "id": "63202",
+        "size": 9
+    },
+    {
+        "name": "Osnove podatkovnih baz (63208)",
+        "short": "OPB",
+        "id": "63208",
+        "size": 11
+    },
+    {
+        "name": "Osnove programiranja (FKKT) (90067)",
+        "short": "OP-FKKT",
+        "id": "90067",
+        "size": 6
+    },
+    {
+        "name": "Osnove umetne inteligence (63214)",
+        "short": "OUI",
+        "id": "63214",
+        "size": 13
+    },
+    {
+        "name": "Planiranje in upravljanje informatike (63768)",
+        "short": "PUI",
+        "id": "63768",
+        "size": 4
+    },
+    {
+        "name": "Podatkovne baze 2 (63713)",
+        "short": "PB2",
+        "id": "63713",
+        "size": 6
+    },
+    {
+        "name": "Porazdeljeni sistemi (63261)",
+        "short": "PS",
+        "id": "63261",
+        "size": 3
+    },
+    {
+        "name": "Postopki razvoja programske opreme (63254)",
+        "short": "PRPO",
+        "id": "63254",
+        "size": 4
+    },
+    {
+        "name": "Procesna avtomatika (63737)",
+        "short": "PA",
+        "id": "63737",
+        "size": 3
+    },
+    {
+        "name": "Programiranje (63502)",
+        "short": "P",
+        "id": "63502",
+        "size": 1
+    },
+    {
+        "name": "Programiranje 1 (63702)",
+        "short": "P1",
+        "id": "63702",
+        "size": 16
+    },
+    {
+        "name": "Programiranje 1 (63277)",
+        "short": "P1",
+        "id": "63277",
+        "size": 19
+    },
+    {
+        "name": "Računalniška arhitektura (63703)",
+        "short": "RA",
+        "id": "63703",
+        "size": 13
+    },
+    {
+        "name": "Računalniška grafika (63719)",
+        "short": "RG",
+        "id": "63719",
+        "size": 7
+    },
+    {
+        "name": "Računalniška grafika in tehnologija iger (63269)",
+        "short": "RGTI",
+        "id": "63269",
+        "size": 8
+    },
+    {
+        "name": "Računalniška podpora oblikovanju I (ALUO) (90066)",
+        "short": "RPOI",
+        "id": "90066",
+        "size": 1
+    },
+    {
+        "name": "Računalniška zvočna produkcija (63523)",
+        "short": "RZP",
+        "id": "63523",
+        "size": 3
+    },
+    {
+        "name": "Računalniške storitve v oblaku (63541)",
+        "short": "RSO",
+        "id": "63541",
+        "size": 4
+    },
+    {
+        "name": "Robotika in računalniško zaznavanje (63739)",
+        "short": "RRZ",
+        "id": "63739",
+        "size": 3
+    },
+    {
+        "name": "Seminar 1 in Seminar 3 (S1S3)",
+        "short": "S1S3",
+        "id": "S1S3",
+        "size": 1
+    },
+    {
+        "name": "Sistemska programska oprema (63264)",
+        "short": "SPO",
+        "id": "63264",
+        "size": 3
+    },
+    {
+        "name": "Sistemska programska oprema (63736)",
+        "short": "SPO",
+        "id": "63736",
+        "size": 4
+    },
+    {
+        "name": "Skupinsko vedenje (63558)",
+        "short": "SV",
+        "id": "63558",
+        "size": 3
+    },
+    {
+        "name": "Slikovna biometrija (63554)",
+        "short": "SB",
+        "id": "63554",
+        "size": 6
+    },
+    {
+        "name": "Spletno programiranje (63255)",
+        "short": "SP",
+        "id": "63255",
+        "size": 8
+    },
+    {
+        "name": "Strojno učenje (63519)",
+        "short": "SU",
+        "id": "63519",
+        "size": 7
+    },
+    {
+        "name": "Tehnične veščine (63284D)",
+        "short": "TV",
+        "id": "63284D",
+        "size": 1
+    },
+    {
+        "name": "Tehnične veščine (63767A)",
+        "short": "TV",
+        "id": "63767A",
+        "size": 1
+    },
+    {
+        "name": "Tehnologija iger in navidezna resničnost (63740)",
+        "short": "TINR",
+        "id": "63740",
+        "size": 3
+    },
+    {
+        "name": "Tehnologija programske opreme (63732)",
+        "short": "TPO",
+        "id": "63732",
+        "size": 8
+    },
+    {
+        "name": "Tehnologija upravljanja podatkov (63226)",
+        "short": "TUP",
+        "id": "63226",
+        "size": 4
+    },
+    {
+        "name": "Topološka analiza podatkov (63542)",
+        "short": "RT",
+        "id": "63542",
+        "size": 3
+    },
+    {
+        "name": "Umetna inteligenca (63720)",
+        "short": "UI",
+        "id": "63720",
+        "size": 5
+    },
+    {
+        "name": "Umetna inteligenca 1 (63501)",
+        "short": "UI1",
+        "id": "63501",
+        "size": 1
+    },
+    {
+        "name": "Umetno zaznavanje (63267)",
+        "short": "UZ",
+        "id": "63267",
+        "size": 7
+    },
+    {
+        "name": "Uvod v bioinformatiko (63520)",
+        "short": "UB",
+        "id": "63520",
+        "size": 6
+    },
+    {
+        "name": "Uvod v podatkovne vede (63565)",
+        "short": "UPV",
+        "id": "63565",
+        "size": 2
+    },
+    {
+        "name": "Uvod v računalništvo (63701)",
+        "short": "UR",
+        "id": "63701",
+        "size": 11
+    },
+    {
+        "name": "Varnost komunikacij in zaščita vsebin (63289)",
+        "short": "VKZV",
+        "id": "63289",
+        "size": 3
+    },
+    {
+        "name": "Verjetnost in statistika (63213)",
+        "short": "VS",
+        "id": "63213",
+        "size": 11
+    },
+    {
+        "name": "Veščine v znanstvenem delu 1 (63802)",
+        "short": "VZDI",
+        "id": "63802",
+        "size": 1
+    },
+    {
+        "name": "Vgrajeni sistemi (63738)",
+        "short": "VS",
+        "id": "63738",
+        "size": 4
+    },
+    {
+        "name": "Vzporedni in porazdeljeni sistemi in algoritmi (63735)",
+        "short": "VPSA",
+        "id": "63735",
+        "size": 5
+    }
+]
