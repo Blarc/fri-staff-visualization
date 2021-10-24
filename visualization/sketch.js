@@ -1,13 +1,21 @@
 let balls = []
+let tubes = []
 
+let padding = 5
+let boundaryPadding = 3
 
 function setup(){
     createCanvas(640, 360);
 
-    // balls = [new Ball('name', 'short', 100, 100, 20), new Ball('name', 'shortname', 700, 100, 80)];
-
-    // for (let i = 0; i < numBalls; i++) {
-    //     balls[i] = new Ball("a", "b", getRandomInt(width), getRandomInt(height), 10, i, balls)
+    // balls = [
+    //     new Ball('name', 'short', 30),
+    //     new Ball('name', 'shortname', 30),
+    //     new Ball('name', 'shortname', 30),
+    //     new Ball('name', 'shortname', 30)
+    // ];
+    //
+    // for (let i = 0; i < 200; i++) {
+    //     balls[i] = new Ball("a", "b", 10, i, balls)
     // }
 
     createBallsFromFile()
@@ -17,16 +25,15 @@ function setup(){
 function draw() {
     background(240);
 
-    balls.forEach(ball => {
-        ball.update();
-        ball.display();
-        ball.checkBoundaryCollision();
+    tubes.forEach(tube => {
+        tube.update(mouseX, mouseY)
+        tube.display()
+    })
+}
 
-        balls.forEach(other => {
-            if (ball !== other) {
-                ball.checkCollision(other)
-            }
-        })
+function mousePressed() {
+    balls.forEach(ball => {
+        ball.onClick(mouseX, mouseY);
     })
 }
 
@@ -47,11 +54,13 @@ function createBallsFromFile() {
             balls[i] = new Ball(
                 class_['name'],
                 class_['short'],
-                getRandomInt(width),
-                getRandomInt(height),
-                class_['size'] * 2 + 10
+                class_['size'] * 2 + 10, ball => {console.log(ball.name)}
             )
         }
+
+        tubes = [
+            new Tube(0, 0, width, height, 200, balls),
+        ]
     });
 }
 

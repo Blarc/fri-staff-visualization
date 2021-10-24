@@ -1,34 +1,37 @@
 class Ball {
-    constructor(name, shortName, x, y, r) {
+    constructor(name, shortName, r, onClickListener) {
         this.name = name;
         this.shortName = shortName;
-        this.position = new p5.Vector(x, y);
+        this.position = null;
         this.velocity = p5.Vector.random2D();
-        this.velocity.mult(3);
+        this.velocity.mult(5);
         this.r = r;
         this.m = r * 0.1;
+        this.ellipse = null;
+        this.onClickListener = onClickListener;
     }
 
     update() {
         this.position.add(this.velocity);
-        this.velocity.y += 0.01
-        this.velocity.x *= 0.99
+        this.velocity.y += (0.01 * this.r)
+        this.velocity.x *= 0.999
     }
 
-    checkBoundaryCollision() {
-        if (this.position.x >= width - this.r) {
-            this.position.x = width - this.r;
+    checkBoundaryCollision(left, right, top, bottom) {
+        if (this.position.x >= right - this.r - boundaryPadding) {
+            this.position.x = right - this.r - boundaryPadding;
             this.velocity.x *= -0.3;
-        } else if (this.position.x <= this.r) {
-            this.position.x = this.r;
+        } else if (this.position.x <= left + this.r + boundaryPadding) {
+            this.position.x = left + this.r + boundaryPadding;
             this.velocity.x *= -0.3;
         }
 
-        if (this.position.y >= height - this.r) {
-            this.position.y = height - this.r;
+        if (this.position.y >= bottom - this.r - boundaryPadding) {
+            this.position.y = bottom - this.r -boundaryPadding;
             this.velocity.y *= -0.3;
-        } else if (this.position.y <= this.r) {
-            this.position.y = this.r;
+        } else if (this.position.y <= top + this.r + boundaryPadding) {
+            this.position.y = top + this.r + boundaryPadding;
+            this.velocity.y += 0.01
             this.velocity.y *= -1;
         }
 
@@ -125,13 +128,33 @@ class Ball {
         }
     }
 
-    display() {
+    display(mouseX, mouseY) {
         noStroke();
-        fill(255, 200, 200, 204);
-        ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
+
+        if (this.isMouseOnBall(mouseX, mouseY)) {
+            fill(100);
+        }
+        else {
+            fill(255, 100, 200, 204);
+        }
+
+
+        this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
         fill(255);
         textAlign(CENTER, CENTER)
         textSize(this.r * ((11 - this.shortName.length) / 10));
         text(this.shortName, this.position.x, this.position.y)
     }
+
+    onClick(mouseX, mouseY) {
+        if (this.isMouseOnBall(mouseX, mouseY)) {
+            this.onClickListener(this)
+        }
+    }
+
+    isMouseOnBall(mouseX, mouseY) {
+        let d = dist(mouseX, mouseY, this.position.x, this.position.y);
+        return d < this.r;
+    }
+
 }
