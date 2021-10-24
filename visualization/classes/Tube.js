@@ -9,8 +9,8 @@ class Tube {
 
         this.balls.forEach(ball => {
             ball.position = new p5.Vector(
-                this.x + this.width / 2,
-                120
+                randomIntInterval(this.x + ball.r, this.x + this.width - ball.r),
+                ball.r
             )
         })
     }

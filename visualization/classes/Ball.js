@@ -3,7 +3,7 @@ class Ball {
         this.name = name;
         this.shortName = shortName;
         this.position = null;
-        this.velocity = p5.Vector.random2D();
+        this.velocity = new p5.Vector(randomIntInterval(-2, 2), r * 0.01)
         this.velocity.mult(5);
         this.r = r;
         this.m = r * 0.1;
