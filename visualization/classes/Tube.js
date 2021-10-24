@@ -1,22 +1,22 @@
 class Tube {
     constructor(x, y, width, height, color, balls) {
-        this.x = x;
+        this.x = x + padding;
         this.y = y;
-        this.width = width;
+        this.width = width - padding;
         this.height = height;
         this.color = color;
         this.balls = balls;
 
         this.balls.forEach(ball => {
             ball.position = new p5.Vector(
-                randomIntInterval(this.x + ball.r, this.x + this.width - ball.r),
+                random(this.x + ball.r, this.x + this.width - ball.r),
                 ball.r
             )
         })
     }
 
     display() {
-        fill(this.color)
+        fill(this.color[0], this.color[1], this.color[2])
         rect(this.x, this.y, this.width, this.height)
 
         this.balls.forEach(ball => {

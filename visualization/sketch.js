@@ -2,10 +2,15 @@ let balls = []
 let tubes = []
 
 let padding = 5
-let boundaryPadding = 3
+let boundaryPadding = 5
+
+let width = 640
+let height = 360
+
+let menuTube;
 
 function setup(){
-    createCanvas(640, 360);
+    createCanvas(width, height);
 
     // balls = [
     //     new Ball('name', 'short', 30),
@@ -20,10 +25,17 @@ function setup(){
 
     createBallsFromFile()
 
+    tubes.push(new Tube(9/10 * width, 0, 1/10 * width, height, [235, 235, 245], [
+        new Ball('menu1', 'menu1', 25, [200, 200, 200], new p5.Vector(0, 1), ball => {}),
+        new Ball('menu1', 'menu1', 25, [200, 200, 200], new p5.Vector(0, 1),ball => {}),
+        new Ball('menu1', 'menu1', 25, [200, 200, 200], new p5.Vector(0, 1),ball => {}),
+        new Ball('menu1', 'menu1', 25, [200, 200, 200], new p5.Vector(0, 1),ball => {}),
+    ]))
+
 }
 
 function draw() {
-    background(240);
+    background(255, 0, 0);
 
     tubes.forEach(tube => {
         tube.update(mouseX, mouseY)
@@ -37,30 +49,28 @@ function mousePressed() {
     })
 }
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
-
-function randomIntInterval(min, max) {
-    return Math.floor(Math.random() * (max - min + 1) + min)
-}
-
 
 function createBallsFromFile() {
     readTextFile("visualization/data/classes.json", function(text) {
         let data = JSON.parse(text)
         for (let i in data) {
+
+            let r = random(200);
+            let g = random(100);
+            let b = random(50);
+
             let class_ = data[i]
             balls[i] = new Ball(
                 class_['name'],
                 class_['short'],
-                class_['size'] * 2 + 10, ball => {console.log(ball.name)}
+                class_['size'] * 2 + 10,
+                [r, g, b],
+            null,
+            ball => {console.log(ball.name)}
             )
         }
 
-        tubes = [
-            new Tube(0, 0, width, height, 200, balls),
-        ]
+        tubes.push(new Tube(0, 0, 9/10 * width, height, [230, 200, 200], balls))
     });
 }
 

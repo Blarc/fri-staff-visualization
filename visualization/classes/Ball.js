@@ -1,20 +1,30 @@
 class Ball {
-    constructor(name, shortName, r, onClickListener) {
+    constructor(name, shortName, r, color, velocity, onClickListener) {
         this.name = name;
         this.shortName = shortName;
         this.position = null;
-        this.velocity = new p5.Vector(randomIntInterval(-2, 2), r * 0.01)
+        if (!velocity) {
+            this.velocity = new p5.Vector(random(-2, 2), r * 0.01);
+        } else {
+            this.velocity = velocity;
+        }
         this.velocity.mult(5);
         this.r = r;
         this.m = r * 0.1;
         this.ellipse = null;
+        this.color = color;
         this.onClickListener = onClickListener;
+        this.smooth = 1.0;
     }
 
     update() {
         this.position.add(this.velocity);
         this.velocity.y += (0.01 * this.r)
         this.velocity.x *= 0.999
+
+        if (this.smooth > 0) {
+            this.smooth *= 0.999
+        }
     }
 
     checkBoundaryCollision(left, right, top, bottom) {
@@ -27,7 +37,7 @@ class Ball {
         }
 
         if (this.position.y >= bottom - this.r - boundaryPadding) {
-            this.position.y = bottom - this.r -boundaryPadding;
+            this.position.y = bottom - this.r - boundaryPadding;
             this.velocity.y *= -0.3;
         } else if (this.position.y <= top + this.r + boundaryPadding) {
             this.position.y = top + this.r + boundaryPadding;
@@ -121,26 +131,27 @@ class Ball {
             // this.position.add(bFinal[0]);
 
             // update velocities
-            this.velocity.x = cosine * vFinal[0].x - sine * vFinal[0].y;
-            this.velocity.y = cosine * vFinal[0].y + sine * vFinal[0].x;
-            other.velocity.x = cosine * vFinal[1].x - sine * vFinal[1].y;
-            other.velocity.y = cosine * vFinal[1].y + sine * vFinal[1].x;
+            this.velocity.x = cosine * vFinal[0].x - sine * vFinal[0].y * this.smooth;
+            this.velocity.y = cosine * vFinal[0].y + sine * vFinal[0].x * this.smooth;
+            other.velocity.x = cosine * vFinal[1].x - sine * vFinal[1].y * this.smooth;
+            other.velocity.y = cosine * vFinal[1].y + sine * vFinal[1].x * this.smooth;
         }
     }
 
     display(mouseX, mouseY) {
-        noStroke();
 
         if (this.isMouseOnBall(mouseX, mouseY)) {
-            fill(100);
+            strokeWeight(2);
+            stroke('white')
         }
         else {
-            fill(255, 100, 200, 204);
+            noStroke();
         }
-
+        fill(this.color[0], this.color[1], this.color[2], 204);
 
         this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
         fill(255);
+        noStroke();
         textAlign(CENTER, CENTER)
         textSize(this.r * ((11 - this.shortName.length) / 10));
         text(this.shortName, this.position.x, this.position.y)
