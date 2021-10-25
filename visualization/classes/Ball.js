@@ -1,13 +1,14 @@
 class Ball {
-    constructor(name, shortName, teacher, day, isLecture, r, color, velocity, onClickListener) {
+    constructor(name, shortName, teacher, day, isLecture, start, r, color, velocity, onClickListener) {
         this.name = name;
         this.shortName = shortName;
         this.teacher = teacher;
         this.day = day;
-        this.isLecture = isLecture
+        this.isLecture = isLecture;
+        this.start = start;
         this.position = null;
         if (!velocity) {
-            this.velocity = new p5.Vector(random(-2, 2), r * 0.0001);
+            this.velocity = new p5.Vector(random(-0.5, 0.5), r * 0.01);
         } else {
             this.velocity = velocity;
         }
@@ -156,7 +157,7 @@ class Ball {
             stroke('white')
         }
 
-        fill(this.color[0], this.color[1], this.color[2], 204);
+        fill(255 - this.start * 15, 255 - this.start * 15, 255 - this.start * 15, 255);
 
         this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
         fill(255);
@@ -168,6 +169,7 @@ class Ball {
 
     onClick(mouseX, mouseY) {
         if (this.isMouseOnBall(mouseX, mouseY)) {
+            console.log(this)
             highlightedBalls.forEach(ball => {
                 ball.stroke = null
             })

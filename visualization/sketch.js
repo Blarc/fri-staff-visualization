@@ -26,7 +26,6 @@ function setup(){
     }
 
     createBallsFromFile()
-
 }
 
 function draw() {
@@ -54,28 +53,30 @@ function createBallsFromFile() {
         for (let teacher in data) {
 
             for (let subject in data[teacher]) {
-
-                for (let day in data[teacher][subject]['lectures']) {
-                    let amount = data[teacher][subject]['lectures'][day]
-                    if (amount > 0) {
-                        let dayNum = dayMapper[day];
-                        let ball = new Ball("", "", teacher, dayNum, true, max(15 * amount, 15), [255, 200, 255], null, {});
-                        tubes[dayNum].addBall(ball)
-                        balls.push(ball)
-                    }
-                }
-
-                for (let day in data[teacher][subject]['labs']) {
-                    let amount = data[teacher][subject]['labs'][day]
-                    if (amount > 0) {
-                        let dayNum = dayMapper[day];
-                        let ball = new Ball("", "", teacher, dayNum, true, 15 * amount, [155, 200, 255], null, {});
-                        tubes[dayNum].addBall(ball)
-                        balls.push(ball)
-                    }
-                }
+                data[teacher][subject]['courses'].forEach(course => {
+                    let dayNum = dayMapper[course.day];
+                    let ball = new Ball(
+                        "",
+                        "",
+                        teacher,
+                        dayNum,
+                        data[teacher][subject]['professor'],
+                        int(course.start),
+                        int(course.length) * 10,
+                        [100, 100, 100],
+                        null,
+                        {}
+                    )
+                    tubes[dayNum].addBall(ball)
+                    balls.push(ball)
+                })
             }
         }
+
+        tubes.forEach(tube => {
+            tube.sortTube()
+            tube.start()
+        })
     });
 }
 

@@ -6,6 +6,20 @@ class Tube {
         this.height = height;
         this.color = color;
         this.balls = [];
+        this.visibleBalls = [];
+    }
+
+    start() {
+        setInterval(
+            (balls, visibleBalls) => {
+                if (balls.length > 0) {
+                    visibleBalls.push(balls.pop())
+                }
+            },
+            100,
+            this.balls,
+            this.visibleBalls
+        )
     }
 
     addBall(ball) {
@@ -16,19 +30,25 @@ class Tube {
         this.balls.push(ball)
     }
 
+    sortTube() {
+        this.balls.sort((a, b) => {
+            return b.start - a.start
+        })
+    }
+
     display() {
         fill(this.color[0], this.color[1], this.color[2])
         rect(this.x, this.y, this.width, this.height)
 
-        this.balls.forEach(ball => {
+        this.visibleBalls.forEach(ball => {
             ball.display(mouseX, mouseY);
         })
     }
 
     update() {
-        this.balls.forEach(ball => {
+        this.visibleBalls.forEach(ball => {
             ball.update();
-            this.balls.forEach(other => {
+            this.visibleBalls.forEach(other => {
                 if (ball !== other) {
                     ball.checkCollision(other)
                 }

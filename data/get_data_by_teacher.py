@@ -43,6 +43,9 @@ for i in range(0, len(classes)):
                 entry: WebElement
 
                 entry_type = entry.find_elements(By.CLASS_NAME, 'entry-type')
+                entry_style = entry.get_attribute('style')
+                tmp = entry_style.split(';')[0].split(' ')
+                start, length = tmp[1], tmp[-1]
 
                 tmp = entry.find_elements(By.CLASS_NAME, 'link-teacher')
                 if len(tmp) < 1:
@@ -58,27 +61,19 @@ for i in range(0, len(classes)):
 
                 if class_name not in teachers_dict[teacher]:
                     teachers_dict[teacher][class_name] = {}
+                    teachers_dict[teacher][class_name]['courses'] = []
                     teachers_dict[teacher][class_name]['professor'] = False
-
-                    teachers_dict[teacher][class_name]['lectures'] = {}
-                    teachers_dict[teacher][class_name]['lectures']['dayMON'] = 0
-                    teachers_dict[teacher][class_name]['lectures']['dayTUE'] = 0
-                    teachers_dict[teacher][class_name]['lectures']['dayWED'] = 0
-                    teachers_dict[teacher][class_name]['lectures']['dayTHU'] = 0
-                    teachers_dict[teacher][class_name]['lectures']['dayFRI'] = 0
-
-                    teachers_dict[teacher][class_name]['labs'] = {}
-                    teachers_dict[teacher][class_name]['labs']['dayMON'] = 0
-                    teachers_dict[teacher][class_name]['labs']['dayTUE'] = 0
-                    teachers_dict[teacher][class_name]['labs']['dayWED'] = 0
-                    teachers_dict[teacher][class_name]['labs']['dayTHU'] = 0
-                    teachers_dict[teacher][class_name]['labs']['dayFRI'] = 0
 
                 if entry_type[0].text == '| P':
                     teachers_dict[teacher][class_name]['professor'] = True
-                    teachers_dict[teacher][class_name]['lectures'][day] += 1
-                else:
-                    teachers_dict[teacher][class_name]['labs'][day] += 1
+
+                teachers_dict[teacher][class_name]['courses'].append(
+                    {
+                        'day': day,
+                        'start': start,
+                        'length': length
+                    }
+                )
 
     except TimeoutException:
         print(f'No columns found for {class_name}.')
