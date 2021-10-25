@@ -1,10 +1,13 @@
 class Ball {
-    constructor(name, shortName, r, color, velocity, onClickListener) {
+    constructor(name, shortName, teacher, day, isLecture, r, color, velocity, onClickListener) {
         this.name = name;
         this.shortName = shortName;
+        this.teacher = teacher;
+        this.day = day;
+        this.isLecture = isLecture
         this.position = null;
         if (!velocity) {
-            this.velocity = new p5.Vector(random(-2, 2), r * 0.01);
+            this.velocity = new p5.Vector(random(-2, 2), r * 0.0001);
         } else {
             this.velocity = velocity;
         }
@@ -13,17 +16,19 @@ class Ball {
         this.m = r * 0.1;
         this.ellipse = null;
         this.color = color;
+        this.savedColor = color;
+        this.stroke = null;
         this.onClickListener = onClickListener;
         this.smooth = 1.0;
     }
 
     update() {
         this.position.add(this.velocity);
-        this.velocity.y += (0.01 * this.r)
+        this.velocity.y += (0.001 * this.r)
         this.velocity.x *= 0.999
 
         if (this.smooth > 0) {
-            this.smooth *= 0.999
+            this.smooth *= 0.9999
         }
     }
 
@@ -42,7 +47,7 @@ class Ball {
         } else if (this.position.y <= top + this.r + boundaryPadding) {
             this.position.y = top + this.r + boundaryPadding;
             this.velocity.y += 0.01
-            this.velocity.y *= -1;
+            // this.velocity.y *= -1;
         }
 
         return true
@@ -140,13 +145,17 @@ class Ball {
 
     display(mouseX, mouseY) {
 
-        if (this.isMouseOnBall(mouseX, mouseY)) {
-            strokeWeight(2);
-            stroke('white')
-        }
-        else {
+        if (this.stroke) {
+            stroke(this.stroke)
+        } else {
             noStroke();
         }
+
+        if (this.isMouseOnBall(mouseX, mouseY)) {
+            strokeWeight(4);
+            stroke('white')
+        }
+
         fill(this.color[0], this.color[1], this.color[2], 204);
 
         this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
@@ -159,7 +168,19 @@ class Ball {
 
     onClick(mouseX, mouseY) {
         if (this.isMouseOnBall(mouseX, mouseY)) {
-            this.onClickListener(this)
+            highlightedBalls.forEach(ball => {
+                ball.stroke = null
+            })
+
+            highlightedBalls = []
+            balls.forEach(ball => {
+                if (this.teacher === ball.teacher) {
+                    ball.stroke = 'yellow'
+                    highlightedBalls.push(ball)
+                }
+            })
+
+            // this.onClickListener(this)
         }
     }
 
