@@ -1,12 +1,19 @@
 class Tube {
     constructor(x, y, width, height, color) {
-        this.x = x + padding;
+        this.x = x;
         this.y = y;
-        this.width = width - padding;
+        this.width = width;
         this.height = height;
         this.color = color;
         this.balls = [];
         this.visibleBalls = [];
+        this.smooth = 1.0;
+        this.ballResize = 1;
+
+        if (x !== 0) {
+            this.x += padding
+            this.width -= padding
+        }
     }
 
     start() {
@@ -27,6 +34,7 @@ class Tube {
             random(this.x + ball.r, this.x + this.width - ball.r),
             ball.r
         )
+        ball.tube = this;
         this.balls.push(ball)
     }
 
@@ -55,5 +63,6 @@ class Tube {
             })
             ball.checkBoundaryCollision(this.x, this.x + this.width, this.y, this.y + this.height);
         })
+        this.smooth *= 0.9999
     }
 }

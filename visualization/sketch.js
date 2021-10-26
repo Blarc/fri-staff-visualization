@@ -19,7 +19,9 @@ let dayMapper = {
 }
 
 function setup(){
-    createCanvas(width, height);
+    createCanvas(windowWidth, windowHeight);
+    width = windowWidth
+    height = windowHeight
 
     for (let i = 0; i < 5; i++) {
         tubes.push(new Tube(i/5 * width, 0, 1/5 * width, height, [255, 0, 100]))
@@ -45,6 +47,21 @@ function mousePressed() {
     }
 }
 
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
+    width = windowWidth
+    height = windowHeight
+
+    for (let i = 0; i < 5; i++) {
+        var tube = tubes[i];
+        tube.x = i/5 * width + padding
+        tube.y = 0
+        tube.width = 1/5 * width - padding
+        tube.height = height
+        tube.smooth = 1
+    }
+}
+
 
 function createBallsFromFile() {
     readTextFile("visualization/data/teachers_graph_new.json", function(text) {
@@ -62,7 +79,7 @@ function createBallsFromFile() {
                         dayNum,
                         data[teacher][subject]['professor'],
                         int(course.start),
-                        int(course.length) * 10,
+                        int(course.length) * 10 * (width + height) / 2250,
                         [100, 100, 100],
                         null,
                         {}

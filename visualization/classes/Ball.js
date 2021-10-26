@@ -6,31 +6,28 @@ class Ball {
         this.day = day;
         this.isLecture = isLecture;
         this.start = start;
-        this.position = null;
         if (!velocity) {
-            this.velocity = new p5.Vector(random(-0.5, 0.5), r * 0.01);
+            this.velocity = new p5.Vector(random(-0.5, 0.5), r * 0.05);
         } else {
             this.velocity = velocity;
         }
         this.velocity.mult(5);
         this.r = r;
         this.m = r * 0.1;
-        this.ellipse = null;
         this.color = color;
         this.savedColor = color;
-        this.stroke = null;
         this.onClickListener = onClickListener;
-        this.smooth = 1.0;
+
+        this.position = null;
+        this.ellipse = null;
+        this.stroke = null;
+        this.tube = null;
     }
 
     update() {
         this.position.add(this.velocity);
         this.velocity.y += (0.001 * this.r)
         this.velocity.x *= 0.999
-
-        if (this.smooth > 0) {
-            this.smooth *= 0.9999
-        }
     }
 
     checkBoundaryCollision(left, right, top, bottom) {
@@ -48,7 +45,6 @@ class Ball {
         } else if (this.position.y <= top + this.r + boundaryPadding) {
             this.position.y = top + this.r + boundaryPadding;
             this.velocity.y += 0.01
-            // this.velocity.y *= -1;
         }
 
         return true
@@ -137,10 +133,10 @@ class Ball {
             // this.position.add(bFinal[0]);
 
             // update velocities
-            this.velocity.x = cosine * vFinal[0].x - sine * vFinal[0].y * this.smooth;
-            this.velocity.y = cosine * vFinal[0].y + sine * vFinal[0].x * this.smooth;
-            other.velocity.x = cosine * vFinal[1].x - sine * vFinal[1].y * this.smooth;
-            other.velocity.y = cosine * vFinal[1].y + sine * vFinal[1].x * this.smooth;
+            this.velocity.x = cosine * vFinal[0].x - sine * vFinal[0].y * this.tube.smooth;
+            this.velocity.y = cosine * vFinal[0].y + sine * vFinal[0].x * this.tube.smooth;
+            other.velocity.x = cosine * vFinal[1].x - sine * vFinal[1].y * this.tube.smooth;
+            other.velocity.y = cosine * vFinal[1].y + sine * vFinal[1].x * this.tube.smooth;
         }
     }
 
