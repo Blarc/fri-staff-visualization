@@ -5,8 +5,10 @@ let tubes = []
 let padding = 5
 let boundaryPadding = 5
 
-let width = 1280
-let height = 720
+let tubesWidth = 0
+let tubesHeight = 0
+let tubesWidthRatio = 0.98
+let tubesHeightRatio = 0.9
 
 let menuTube;
 
@@ -20,11 +22,19 @@ let dayMapper = {
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
-    width = windowWidth
-    height = windowHeight
+    tubesWidth = windowWidth * tubesWidthRatio
+    tubesHeight = windowHeight * tubesHeightRatio
 
     for (let i = 0; i < 5; i++) {
-        tubes.push(new Tube(i/5 * width, 0, 1/5 * width, height, [255, 0, 100]))
+        tubes.push(
+            new Tube(
+                i/5 * tubesWidth + (windowWidth - tubesWidth) / 2,
+                (windowHeight - tubesHeight) / 2,
+                1/5 * tubesWidth,
+                tubesHeight,
+                [255, 0, 100]
+            )
+        )
     }
 
     createBallsFromFile()
@@ -32,6 +42,10 @@ function setup(){
 
 function draw() {
     background(255, 255, 0);
+
+    fill(255, 0, 100)
+    rect((windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15, tubesWidth - padding, (windowHeight - tubesHeight) / 2.5)
+    rect((windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15 + (windowHeight + (1.517 * tubesHeight)) / 2.5, tubesWidth - padding, (windowHeight - tubesHeight) / 2.5)
 
     tubes.forEach(tube => {
         tube.update(mouseX, mouseY)
@@ -49,15 +63,15 @@ function mousePressed() {
 
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
-    width = windowWidth
-    height = windowHeight
+    tubesWidth = windowWidth * tubesWidthRatio
+    tubesHeight = windowHeight * tubesHeightRatio
 
     for (let i = 0; i < 5; i++) {
         var tube = tubes[i];
-        tube.x = i/5 * width + padding
+        tube.x = i/5 * tubesWidth + padding + (windowWidth - tubesWidth) / 2
         tube.y = 0
-        tube.width = 1/5 * width - padding
-        tube.height = height
+        tube.width = 1/5 * tubesWidth - padding
+        tube.height = tubesHeight
         tube.smooth = 1
     }
 }
@@ -73,13 +87,13 @@ function createBallsFromFile() {
                 data[teacher][subject]['courses'].forEach(course => {
                     let dayNum = dayMapper[course.day];
                     let ball = new Ball(
-                        "",
-                        "",
+                        subject,
+                        course.shortName,
                         teacher,
                         dayNum,
                         data[teacher][subject]['professor'],
                         int(course.start),
-                        int(course.length) * 10 * (width + height) / 2250,
+                        int(course.length) * 10 * (tubesWidth + tubesHeight) / 2250,
                         [100, 100, 100],
                         null,
                         {}

@@ -26,7 +26,6 @@ for i in range(0, len(classes)):
 
     classes[i].click()
     try:
-        groups_set = set()
 
         columns = WebDriverWait(driver, 1).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, 'grid-day-column'))
@@ -41,6 +40,18 @@ for i in range(0, len(classes)):
 
             for entry in entries:
                 entry: WebElement
+
+                entry_subject = entry.find_element(By.CLASS_NAME, 'link-subject')
+                class_short: str = entry_subject.text.split('_')[0]
+
+                if class_short.isspace() or class_short == '':
+                    for word in class_name.split(' '):
+                        class_short += word[0].upper()
+
+                if class_short.__contains__('('):
+                    class_short = class_short.split('(')[0]
+
+                id_ = class_name.split(' ')[-1][1:-1]
 
                 entry_type = entry.find_elements(By.CLASS_NAME, 'entry-type')
                 entry_style = entry.get_attribute('style')
@@ -71,7 +82,9 @@ for i in range(0, len(classes)):
                     {
                         'day': day,
                         'start': start,
-                        'length': length
+                        'length': length,
+                        'id': id_,
+                        'shortName': class_short
                     }
                 )
 

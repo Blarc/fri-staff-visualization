@@ -142,10 +142,15 @@ class Ball {
 
     display(mouseX, mouseY) {
 
-        if (this.stroke) {
-            stroke(this.stroke)
-        } else {
-            noStroke();
+        if (this.isLecture) {
+            fill(0, 255 - this.start * 15, 255 - this.start * 15, 255);
+            strokeWeight(3);
+            stroke('blue')
+        }
+        else {
+            fill(255 - this.start * 20, 0, 255 - this.start * 20, 255);
+            strokeWeight(3);
+            stroke(0, 255, 100)
         }
 
         if (this.isMouseOnBall(mouseX, mouseY)) {
@@ -153,10 +158,13 @@ class Ball {
             stroke('white')
         }
 
-        fill(255 - this.start * 15, 255 - this.start * 15, 255 - this.start * 15, 255);
+        if (this.stroke) {
+            strokeWeight(6);
+            stroke(this.stroke)
+        }
 
         this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
-        fill(255);
+        fill(255, 255, 255);
         noStroke();
         textAlign(CENTER, CENTER)
         textSize(this.r * ((11 - this.shortName.length) / 10));

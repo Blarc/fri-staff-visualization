@@ -5,47 +5,65 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 }
             ],
             "professor": false
@@ -55,7 +73,9 @@
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63732",
+                    "shortName": "TPO"
                 }
             ],
             "professor": true
@@ -67,7 +87,9 @@
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63711",
+                    "shortName": "AiPS1"
                 }
             ],
             "professor": true
@@ -79,37 +101,51 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 }
             ],
             "professor": false
@@ -119,17 +155,23 @@
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 }
             ],
             "professor": false
@@ -139,22 +181,30 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
                 },
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
                 }
             ],
             "professor": false
@@ -166,12 +216,16 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
                 }
             ],
             "professor": false
@@ -181,7 +235,9 @@
                 {
                     "day": "dayFRI",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63835E",
+                    "shortName": "IPIUI2"
                 }
             ],
             "professor": true
@@ -193,7 +249,9 @@
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63279",
+                    "shortName": "APS1"
                 }
             ],
             "professor": true
@@ -203,7 +261,9 @@
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63519",
+                    "shortName": "SU"
                 }
             ],
             "professor": true
@@ -213,7 +273,9 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63720",
+                    "shortName": "UI"
                 }
             ],
             "professor": true
@@ -225,7 +287,9 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63563",
+                    "shortName": "BS"
                 }
             ],
             "professor": true
@@ -235,7 +299,9 @@
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63564",
+                    "shortName": "NN"
                 }
             ],
             "professor": true
@@ -247,7 +313,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63563",
+                    "shortName": "BS"
                 }
             ],
             "professor": false
@@ -259,17 +327,23 @@
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63718",
+                    "shortName": "DV"
                 },
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63718",
+                    "shortName": "DV"
                 },
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63718",
+                    "shortName": "DV"
                 }
             ],
             "professor": true
@@ -279,22 +353,30 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 }
             ],
             "professor": false
@@ -304,12 +386,16 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 }
             ],
             "professor": false
@@ -321,12 +407,16 @@
                 {
                     "day": "dayMON",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63260",
+                    "shortName": "DN"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63260",
+                    "shortName": "DN"
                 }
             ],
             "professor": false
@@ -336,42 +426,58 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
                 }
             ],
             "professor": false
@@ -383,7 +489,9 @@
                 {
                     "day": "dayWED",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63260",
+                    "shortName": "DN"
                 }
             ],
             "professor": true
@@ -393,17 +501,23 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63737",
+                    "shortName": "PA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63737",
+                    "shortName": "PA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63737",
+                    "shortName": "PA"
                 }
             ],
             "professor": true
@@ -413,17 +527,23 @@
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
                 }
             ],
             "professor": false
@@ -435,7 +555,9 @@
                 {
                     "day": "dayMON",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63203",
+                    "shortName": "DS"
                 }
             ],
             "professor": true
@@ -447,22 +569,30 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 }
             ],
             "professor": false
@@ -472,17 +602,23 @@
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 }
             ],
             "professor": false
@@ -492,7 +628,9 @@
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
                 }
             ],
             "professor": false
@@ -502,7 +640,9 @@
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63506A",
+                    "shortName": "MI"
                 }
             ],
             "professor": false
@@ -514,17 +654,23 @@
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
                 }
             ],
             "professor": false
@@ -534,17 +680,23 @@
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 }
             ],
             "professor": false
@@ -554,12 +706,16 @@
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63542",
+                    "shortName": "RT"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63542",
+                    "shortName": "RT"
                 }
             ],
             "professor": false
@@ -571,17 +727,23 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 }
             ],
             "professor": false
@@ -591,22 +753,30 @@
                 {
                     "day": "dayTUE",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 },
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
                 }
             ],
             "professor": false
@@ -618,22 +788,30 @@
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
                 }
             ],
             "professor": false
@@ -643,12 +821,16 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 }
             ],
             "professor": false
@@ -660,7 +842,9 @@
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63705",
+                    "shortName": "DS"
                 }
             ],
             "professor": true
@@ -670,7 +854,9 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63742",
+                    "shortName": "NM"
                 }
             ],
             "professor": true
@@ -682,22 +868,30 @@
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
                 },
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63248",
+                    "shortName": "EiP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
                 }
             ],
             "professor": true
@@ -709,27 +903,37 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
                 },
                 {
                     "day": "dayMON",
                     "start": "12",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "13",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
                 }
             ],
             "professor": false
@@ -741,7 +945,9 @@
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63712",
+                    "shortName": "EMP"
                 }
             ],
             "professor": true
@@ -751,7 +957,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63768",
+                    "shortName": "PUI"
                 }
             ],
             "professor": true
@@ -763,17 +971,23 @@
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
                 },
                 {
                     "day": "dayMON",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
                 }
             ],
             "professor": false
@@ -783,17 +997,23 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
                 }
             ],
             "professor": false
@@ -805,7 +1025,9 @@
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63249",
+                    "shortName": "EP"
                 }
             ],
             "professor": true
@@ -815,7 +1037,9 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63521",
+                    "shortName": "IVZ"
                 }
             ],
             "professor": true
@@ -825,7 +1049,9 @@
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63523",
+                    "shortName": "RZP"
                 }
             ],
             "professor": true
@@ -837,12 +1063,16 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 },
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 }
             ],
             "professor": false
@@ -854,7 +1084,9 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 }
             ],
             "professor": false
@@ -866,12 +1098,16 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 },
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 }
             ],
             "professor": false
@@ -883,12 +1119,16 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 },
                 {
                     "day": "dayFRI",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
                 }
             ],
             "professor": false
@@ -900,7 +1140,9 @@
                 {
                     "day": "dayTUE",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63205",
+                    "shortName": "F"
                 }
             ],
             "professor": true
@@ -912,7 +1154,9 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63507",
+                    "shortName": "P"
                 }
             ],
             "professor": true
@@ -922,7 +1166,9 @@
                 {
                     "day": "dayWED",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63834",
+                    "shortName": "IPIUI1"
                 }
             ],
             "professor": true
@@ -932,7 +1178,9 @@
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63214",
+                    "shortName": "OUI"
                 }
             ],
             "professor": true
@@ -944,17 +1192,23 @@
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
                 }
             ],
             "professor": false
@@ -964,7 +1218,9 @@
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63528",
+                    "shortName": "KRV"
                 }
             ],
             "professor": false
@@ -976,22 +1232,30 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 },
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 },
                 {
                     "day": "dayTUE",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 }
             ],
             "professor": false
@@ -1003,17 +1267,23 @@
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 },
                 {
                     "day": "dayFRI",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 },
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
                 }
             ],
             "professor": false
@@ -1023,7 +1293,9 @@
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63719",
+                    "shortName": "RG"
                 }
             ],
             "professor": true
@@ -1033,17 +1305,23 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63558",
+                    "shortName": "SV"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63558",
+                    "shortName": "SV"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63558",
+                    "shortName": "SV"
                 }
             ],
             "professor": true
@@ -1055,7 +1333,9 @@
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63715",
+                    "shortName": "GO"
                 }
             ],
             "professor": true
@@ -1067,22 +1347,30 @@
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayWED",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
                 }
             ],
             "professor": false
@@ -1094,7 +1382,9 @@
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63714",
+                    "shortName": "IS"
                 }
             ],
             "professor": true
@@ -1106,7 +1396,9 @@
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
                 }
             ],
             "professor": false
@@ -1118,22 +1410,30 @@
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayWED",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
                 }
             ],
             "professor": false
@@ -1145,7 +1445,9 @@
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63266",
+                    "shortName": "IS"
                 }
             ],
             "professor": true
@@ -1157,22 +1459,30 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
                 },
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
                 }
             ],
             "professor": false
@@ -1184,7 +1494,9 @@
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63527",
+                    "shortName": "IOI"
                 }
             ],
             "professor": true
@@ -1196,7 +1508,9 @@
                 {
                     "day": "dayTHU",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63831",
+                    "shortName": "IPIRS2"
                 }
             ],
             "professor": true
@@ -1208,7 +1522,9 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "5"
+                    "length": "5",
+                    "id": "63749B",
+                    "shortName": "IPIRI"
                 }
             ],
             "professor": true
@@ -1220,17 +1536,23 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayMON",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 }
             ],
             "professor": false
@@ -1240,7 +1562,9 @@
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "4"
+                    "length": "4",
+                    "id": "63284D",
+                    "shortName": "TV"
                 }
             ],
             "professor": true
@@ -1252,32 +1576,44 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 },
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 }
             ],
             "professor": false
@@ -1287,22 +1623,30 @@
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63277",
+                    "shortName": "P1"
                 }
             ],
             "professor": true
@@ -1314,7 +1658,9 @@
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 }
             ],
             "professor": false
@@ -1326,7 +1672,9 @@
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63283",
+                    "shortName": "IRZ"
                 }
             ],
             "professor": true
@@ -1338,7 +1686,9 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63550",
+                    "shortName": "KČR"
                 }
             ],
             "professor": true
@@ -1348,7 +1698,9 @@
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63514",
+                    "shortName": "OBSS"
                 }
             ],
             "professor": true
@@ -1360,17 +1712,23 @@
                 {
                     "day": "dayTHU",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
                 }
             ],
             "professor": false
@@ -1382,27 +1740,37 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 }
             ],
             "professor": false
@@ -1412,12 +1780,16 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63523",
+                    "shortName": "RZP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63523",
+                    "shortName": "RZP"
                 }
             ],
             "professor": false
@@ -1429,7 +1801,9 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 }
             ],
             "professor": true
@@ -1441,7 +1815,9 @@
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
                 }
             ],
             "professor": false
@@ -1453,7 +1829,9 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63528",
+                    "shortName": "KRV"
                 }
             ],
             "professor": true
@@ -1463,17 +1841,23 @@
                 {
                     "day": "dayTUE",
                     "start": "8",
-                    "length": "1"
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "1"
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "1"
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
                 }
             ],
             "professor": true
@@ -1485,7 +1869,9 @@
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63528",
+                    "shortName": "KRV"
                 }
             ],
             "professor": false
@@ -1497,7 +1883,9 @@
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63704",
+                    "shortName": "M"
                 }
             ],
             "professor": true
@@ -1509,12 +1897,16 @@
                 {
                     "day": "dayMON",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
                 },
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
                 }
             ],
             "professor": false
@@ -1524,12 +1916,16 @@
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63742",
+                    "shortName": "NM"
                 },
                 {
                     "day": "dayTHU",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63742",
+                    "shortName": "NM"
                 }
             ],
             "professor": false
@@ -1539,17 +1935,23 @@
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
                 }
             ],
             "professor": false
@@ -1559,12 +1961,16 @@
                 {
                     "day": "dayMON",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 }
             ],
             "professor": false
@@ -1576,7 +1982,9 @@
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63506",
+                    "shortName": "MI"
                 }
             ],
             "professor": true
@@ -1586,7 +1994,9 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63506A",
+                    "shortName": "MI"
                 }
             ],
             "professor": true
@@ -1598,7 +2008,9 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63257",
+                    "shortName": "MRO"
                 }
             ],
             "professor": true
@@ -1608,7 +2020,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63512",
+                    "shortName": "NPMP"
                 }
             ],
             "professor": true
@@ -1620,12 +2034,16 @@
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63257",
+                    "shortName": "MRO"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63257",
+                    "shortName": "MRO"
                 }
             ],
             "professor": false
@@ -1635,17 +2053,23 @@
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
                 }
             ],
             "professor": false
@@ -1657,7 +2081,9 @@
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63734",
+                    "shortName": "MT"
                 }
             ],
             "professor": false
@@ -1669,7 +2095,9 @@
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63734",
+                    "shortName": "MT"
                 }
             ],
             "professor": true
@@ -1681,32 +2109,44 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63270",
+                    "shortName": "MS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
                 }
             ],
             "professor": true
@@ -1716,12 +2156,16 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63739",
+                    "shortName": "RRZ"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63739",
+                    "shortName": "RRZ"
                 }
             ],
             "professor": false
@@ -1733,7 +2177,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63564",
+                    "shortName": "NN"
                 }
             ],
             "professor": false
@@ -1745,22 +2191,30 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
                 }
             ],
             "professor": false
@@ -1772,12 +2226,16 @@
                 {
                     "day": "dayMON",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63741",
+                    "shortName": "OS"
                 },
                 {
                     "day": "dayTUE",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63741",
+                    "shortName": "OS"
                 }
             ],
             "professor": false
@@ -1789,7 +2247,9 @@
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63741",
+                    "shortName": "OS"
                 }
             ],
             "professor": true
@@ -1801,27 +2261,37 @@
                 {
                     "day": "dayWED",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
                 },
                 {
                     "day": "dayWED",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63717",
+                    "shortName": "OR"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
                 }
             ],
             "professor": true
@@ -1831,27 +2301,37 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63703",
+                    "shortName": "RA"
                 }
             ],
             "professor": true
@@ -1863,7 +2343,9 @@
                 {
                     "day": "dayWED",
                     "start": "11",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63218",
+                    "shortName": "ORS"
                 }
             ],
             "professor": true
@@ -1873,7 +2355,9 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63738",
+                    "shortName": "VS"
                 }
             ],
             "professor": true
@@ -1883,7 +2367,9 @@
                 {
                     "day": "dayTUE",
                     "start": "12",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63735",
+                    "shortName": "VPSA"
                 }
             ],
             "professor": true
@@ -1895,47 +2381,65 @@
                 {
                     "day": "dayTUE",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 }
             ],
             "professor": false
@@ -1945,27 +2449,37 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 }
             ],
             "professor": false
@@ -1977,12 +2491,16 @@
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
                 }
             ],
             "professor": false
@@ -1994,7 +2512,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63204",
+                    "shortName": "ODV"
                 }
             ],
             "professor": true
@@ -2006,7 +2526,9 @@
                 {
                     "day": "dayMON",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "FA0001",
+                    "shortName": "OKP"
                 }
             ],
             "professor": true
@@ -2016,32 +2538,44 @@
                 {
                     "day": "dayTUE",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayTHU",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 }
             ],
             "professor": false
@@ -2051,37 +2585,51 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 }
             ],
             "professor": false
@@ -2093,7 +2641,9 @@
                 {
                     "day": "dayWED",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63202",
+                    "shortName": "OMA"
                 }
             ],
             "professor": true
@@ -2105,27 +2655,37 @@
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 }
             ],
             "professor": false
@@ -2137,17 +2697,23 @@
                 {
                     "day": "dayTUE",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 }
             ],
             "professor": false
@@ -2157,12 +2723,16 @@
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 }
             ],
             "professor": false
@@ -2174,12 +2744,16 @@
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 },
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
                 }
             ],
             "professor": false
@@ -2191,7 +2765,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63208",
+                    "shortName": "OPB"
                 }
             ],
             "professor": true
@@ -2203,27 +2779,37 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 },
                 {
                     "day": "dayTUE",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 },
                 {
                     "day": "dayTHU",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 },
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 },
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 }
             ],
             "professor": false
@@ -2233,12 +2819,16 @@
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63740",
+                    "shortName": "TINR"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63740",
+                    "shortName": "TINR"
                 }
             ],
             "professor": false
@@ -2250,7 +2840,9 @@
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
                 }
             ],
             "professor": true
@@ -2262,22 +2854,30 @@
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
-                },
-                {
-                    "day": "dayFRI",
-                    "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 }
             ],
             "professor": false
@@ -2289,12 +2889,16 @@
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
                 }
             ],
             "professor": false
@@ -2306,17 +2910,23 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
                 }
             ],
             "professor": false
@@ -2326,37 +2936,51 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
                 }
             ],
             "professor": false
@@ -2368,32 +2992,44 @@
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63713",
+                    "shortName": "PB2"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
                 }
             ],
             "professor": true
@@ -2405,12 +3041,16 @@
                 {
                     "day": "dayMON",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63261",
+                    "shortName": "PS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63261",
+                    "shortName": "PS"
                 }
             ],
             "professor": false
@@ -2420,12 +3060,16 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
                 }
             ],
             "professor": false
@@ -2437,7 +3081,9 @@
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63261",
+                    "shortName": "PS"
                 }
             ],
             "professor": true
@@ -2449,17 +3095,23 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
                 }
             ],
             "professor": false
@@ -2469,17 +3121,23 @@
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
                 }
             ],
             "professor": false
@@ -2491,7 +3149,9 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63254",
+                    "shortName": "PRPO"
                 }
             ],
             "professor": true
@@ -2501,7 +3161,9 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63541",
+                    "shortName": "RSO"
                 }
             ],
             "professor": true
@@ -2513,7 +3175,9 @@
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "1"
+                    "length": "1",
+                    "id": "63502",
+                    "shortName": "P"
                 }
             ],
             "professor": false
@@ -2523,12 +3187,16 @@
                 {
                     "day": "dayMON",
                     "start": "11",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63702",
+                    "shortName": "P1"
                 }
             ],
             "professor": true
@@ -2540,27 +3208,37 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 }
             ],
             "professor": false
@@ -2570,27 +3248,37 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
                 },
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
                 }
             ],
             "professor": false
@@ -2602,27 +3290,37 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 }
             ],
             "professor": false
@@ -2634,22 +3332,30 @@
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
                 }
             ],
             "professor": false
@@ -2661,42 +3367,58 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 },
                 {
                     "day": "dayFRI",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
                 }
             ],
             "professor": false
@@ -2708,7 +3430,9 @@
                 {
                     "day": "dayWED",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
                 }
             ],
             "professor": false
@@ -2718,17 +3442,23 @@
                 {
                     "day": "dayWED",
                     "start": "2",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
                 }
             ],
             "professor": false
@@ -2738,12 +3468,16 @@
                 {
                     "day": "dayTUE",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
                 },
                 {
                     "day": "dayTHU",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
                 }
             ],
             "professor": false
@@ -2755,32 +3489,44 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
                 }
             ],
             "professor": false
@@ -2790,37 +3536,51 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayTUE",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayWED",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 },
                 {
                     "day": "dayTHU",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 }
             ],
             "professor": false
@@ -2832,7 +3592,9 @@
                 {
                     "day": "dayMON",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63269",
+                    "shortName": "RGTI"
                 }
             ],
             "professor": true
@@ -2842,7 +3604,9 @@
                 {
                     "day": "dayFRI",
                     "start": "11",
-                    "length": "2"
+                    "length": "2",
+                    "id": "90066",
+                    "shortName": "RPOI"
                 }
             ],
             "professor": false
@@ -2854,7 +3618,9 @@
                 {
                     "day": "dayTHU",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63739",
+                    "shortName": "RRZ"
                 }
             ],
             "professor": true
@@ -2866,7 +3632,9 @@
                 {
                     "day": "dayMON",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "S1S3",
+                    "shortName": "S1S3"
                 }
             ],
             "professor": true
@@ -2876,7 +3644,9 @@
                 {
                     "day": "dayWED",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63520",
+                    "shortName": "UB"
                 }
             ],
             "professor": true
@@ -2886,7 +3656,9 @@
                 {
                     "day": "dayTHU",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63565",
+                    "shortName": "UPV"
                 }
             ],
             "professor": true
@@ -2896,7 +3668,9 @@
                 {
                     "day": "dayTUE",
                     "start": "10",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63802",
+                    "shortName": "VZDI"
                 }
             ],
             "professor": true
@@ -2908,7 +3682,9 @@
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63264",
+                    "shortName": "SPO"
                 }
             ],
             "professor": true
@@ -2920,12 +3696,16 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63264",
+                    "shortName": "SPO"
                 },
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63264",
+                    "shortName": "SPO"
                 }
             ],
             "professor": false
@@ -2937,7 +3717,9 @@
                 {
                     "day": "dayFRI",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63736",
+                    "shortName": "SPO"
                 }
             ],
             "professor": true
@@ -2949,27 +3731,37 @@
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
                 },
                 {
                     "day": "dayWED",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
                 },
                 {
                     "day": "dayTHU",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
                 }
             ],
             "professor": false
@@ -2981,7 +3773,9 @@
                 {
                     "day": "dayTHU",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63554",
+                    "shortName": "SB"
                 }
             ],
             "professor": true
@@ -2993,37 +3787,51 @@
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayWED",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayWED",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
                 }
             ],
             "professor": false
@@ -3035,7 +3843,9 @@
                 {
                     "day": "dayTUE",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63255",
+                    "shortName": "SP"
                 }
             ],
             "professor": true
@@ -3047,17 +3857,23 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 },
                 {
                     "day": "dayTUE",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
                 }
             ],
             "professor": false
@@ -3069,7 +3885,9 @@
                 {
                     "day": "dayFRI",
                     "start": "2",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63767A",
+                    "shortName": "TV"
                 }
             ],
             "professor": true
@@ -3081,7 +3899,9 @@
                 {
                     "day": "dayTUE",
                     "start": "3",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63740",
+                    "shortName": "TINR"
                 }
             ],
             "professor": true
@@ -3093,7 +3913,9 @@
                 {
                     "day": "dayMON",
                     "start": "6",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63226",
+                    "shortName": "TUP"
                 }
             ],
             "professor": true
@@ -3105,17 +3927,23 @@
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
                 }
             ],
             "professor": false
@@ -3127,7 +3955,9 @@
                 {
                     "day": "dayTUE",
                     "start": "8",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63542",
+                    "shortName": "RT"
                 }
             ],
             "professor": true
@@ -3139,7 +3969,9 @@
                 {
                     "day": "dayMON",
                     "start": "4",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63501",
+                    "shortName": "UI1"
                 }
             ],
             "professor": true
@@ -3151,22 +3983,30 @@
                 {
                     "day": "dayMON",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 },
                 {
                     "day": "dayTUE",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 },
                 {
                     "day": "dayFRI",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
                 }
             ],
             "professor": false
@@ -3178,7 +4018,9 @@
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63267",
+                    "shortName": "UZ"
                 }
             ],
             "professor": true
@@ -3190,7 +4032,9 @@
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63565",
+                    "shortName": "UPV"
                 }
             ],
             "professor": false
@@ -3202,17 +4046,23 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayTUE",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayWED",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 }
             ],
             "professor": false
@@ -3224,17 +4074,23 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayWED",
                     "start": "6",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayTHU",
                     "start": "1",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 }
             ],
             "professor": false
@@ -3244,12 +4100,16 @@
                 {
                     "day": "dayTUE",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63289",
+                    "shortName": "VKZV"
                 },
                 {
                     "day": "dayTHU",
                     "start": "5",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63289",
+                    "shortName": "VKZV"
                 }
             ],
             "professor": false
@@ -3261,7 +4121,9 @@
                 {
                     "day": "dayMON",
                     "start": "5",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63701",
+                    "shortName": "UR"
                 }
             ],
             "professor": true
@@ -3271,7 +4133,9 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "3"
+                    "length": "3",
+                    "id": "63289",
+                    "shortName": "VKZV"
                 }
             ],
             "professor": true
@@ -3283,7 +4147,9 @@
                 {
                     "day": "dayTUE",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 }
             ],
             "professor": false
@@ -3295,17 +4161,23 @@
                 {
                     "day": "dayTUE",
                     "start": "4",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayTUE",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 },
                 {
                     "day": "dayWED",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
                 }
             ],
             "professor": false
@@ -3317,32 +4189,44 @@
                 {
                     "day": "dayMON",
                     "start": "9",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayMON",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayMON",
                     "start": "7",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayTHU",
                     "start": "10",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "3",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 },
                 {
                     "day": "dayFRI",
                     "start": "8",
-                    "length": "2"
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
                 }
             ],
             "professor": false
