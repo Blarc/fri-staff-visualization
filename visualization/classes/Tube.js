@@ -1,19 +1,16 @@
 class Tube {
-    constructor(x, y, width, height, color) {
-        this.x = x;
-        this.y = y;
-        this.width = width;
-        this.height = height;
+    constructor(x, y, width, height, color, index) {
+        this.x = x / windowWidth;
+        this.y = y / windowHeight;
+        this.width = width / windowWidth;
+        this.height = height / windowHeight;
         this.color = color;
+        this.index = index;
+
         this.balls = [];
         this.visibleBalls = [];
         this.smooth = 1.0;
         this.ballResize = 1;
-
-        if (x !== 0) {
-            this.x += padding
-            this.width -= padding
-        }
     }
 
     start() {
@@ -31,7 +28,10 @@ class Tube {
 
     addBall(ball) {
         ball.position = new p5.Vector(
-            random(this.x + ball.r, this.x + this.width - ball.r),
+            random(
+                this.x * windowWidth + ball.r,
+                this.x * windowWidth + this.width * windowWidth - ball.r
+            ),
             ball.r
         )
         ball.tube = this;
@@ -46,7 +46,12 @@ class Tube {
 
     display() {
         fill(this.color[0], this.color[1], this.color[2])
-        rect(this.x, this.y, this.width, this.height)
+        rect(
+            this.x * windowWidth,
+            this.y * windowHeight,
+            this.width * windowWidth,
+            this.height * windowHeight
+        )
 
         this.visibleBalls.forEach(ball => {
             ball.display(mouseX, mouseY);
@@ -61,7 +66,12 @@ class Tube {
                     ball.checkCollision(other)
                 }
             })
-            ball.checkBoundaryCollision(this.x, this.x + this.width, this.y, this.y + this.height);
+            ball.checkBoundaryCollision(
+                this.x * windowWidth,
+                (this.x + this.width) * windowWidth,
+                this.y * windowHeight,
+                (this.y + this.height) * windowHeight
+            );
         })
         this.smooth *= 0.9999
     }

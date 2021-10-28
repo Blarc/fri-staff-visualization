@@ -1,6 +1,7 @@
 let balls = []
 let highlightedBalls = []
 let tubes = []
+let rects = []
 
 let padding = 5
 let boundaryPadding = 5
@@ -25,14 +26,41 @@ function setup(){
     tubesWidth = windowWidth * tubesWidthRatio
     tubesHeight = windowHeight * tubesHeightRatio
 
+    rects.push(new Rect_(
+        // (windowWidth * 0.02) / 2,
+        0,
+        0,
+        // (windowHeight * 0.1) / 15,
+        // (windowWidth * 0.98),
+        windowWidth,
+        (windowHeight * 0.1) / 2.5,
+        [255, 155, 155]
+        )
+    )
+    rects.push(new Rect_(
+        // (windowWidth * 0.02) / 2,
+        0,
+        (windowHeight * 0.96),
+        // (windowHeight * 0.1) / 15 + (windowHeight * 0.947),
+        // (windowWidth * 0.98),
+        windowWidth,
+        (windowHeight * 0.1) / 2.5,
+        // (windowHeight * 0.1) / 2.5,
+        [255, 155, 155]
+        )
+    )
+
     for (let i = 0; i < 5; i++) {
         tubes.push(
             new Tube(
-                i/5 * tubesWidth + (windowWidth - tubesWidth) / 2,
-                (windowHeight - tubesHeight) / 2,
-                1/5 * tubesWidth,
-                tubesHeight,
-                [255, 0, 100]
+                i/5 * windowWidth + (windowHeight * 0.005),
+                // i/5 * windowWidth * 0.98 + (windowWidth * 0.01),
+                (windowHeight * 0.1) / 2,
+                // 1/5 * windowWidth * 0.98,
+                1/5 * windowWidth - (windowHeight * 0.01),
+                windowHeight * 0.9,
+                [130, 50, 125],
+                i
             )
         )
     }
@@ -41,11 +69,13 @@ function setup(){
 }
 
 function draw() {
-    background(255, 255, 0);
+    background(255, 255, 255);
 
-    fill(255, 0, 100)
-    rect((windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15, tubesWidth - padding, (windowHeight - tubesHeight) / 2.5)
-    rect((windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15 + (windowHeight + (1.517 * tubesHeight)) / 2.5, tubesWidth - padding, (windowHeight - tubesHeight) / 2.5)
+    // bottomText = text("HELLO", (windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15 + (windowHeight + (1.517 * tubesHeight)) / 2.5)
+
+    rects.forEach(rect => {
+        rect.display()
+    })
 
     tubes.forEach(tube => {
         tube.update(mouseX, mouseY)
@@ -63,17 +93,6 @@ function mousePressed() {
 
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
-    tubesWidth = windowWidth * tubesWidthRatio
-    tubesHeight = windowHeight * tubesHeightRatio
-
-    for (let i = 0; i < 5; i++) {
-        var tube = tubes[i];
-        tube.x = i/5 * tubesWidth + padding + (windowWidth - tubesWidth) / 2
-        tube.y = 0
-        tube.width = 1/5 * tubesWidth - padding
-        tube.height = tubesHeight
-        tube.smooth = 1
-    }
 }
 
 

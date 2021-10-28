@@ -143,14 +143,14 @@ class Ball {
     display(mouseX, mouseY) {
 
         if (this.isLecture) {
-            fill(0, 255 - this.start * 15, 255 - this.start * 15, 255);
-            strokeWeight(3);
-            stroke('blue')
+            fill(255, 160 - this.start * 15, 0 - this.start * 15, 255);
+            // strokeWeight(3);
+            // stroke('blue')
         }
         else {
-            fill(255 - this.start * 20, 0, 255 - this.start * 20, 255);
-            strokeWeight(3);
-            stroke(0, 255, 100)
+            fill(155 - this.start * 15, 155 - this.start * 15, 255 - this.start * 15, 255);
+            // strokeWeight(3);
+            // stroke(0, 255, 100)
         }
 
         if (this.isMouseOnBall(mouseX, mouseY)) {
@@ -160,10 +160,13 @@ class Ball {
 
         if (this.stroke) {
             strokeWeight(6);
-            stroke(this.stroke)
+            stroke(this.stroke[0], this.stroke[1], this.stroke[2])
         }
 
+        // Create ellipse
         this.ellipse = ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2);
+
+        // Add text
         fill(255, 255, 255);
         noStroke();
         textAlign(CENTER, CENTER)
@@ -181,7 +184,7 @@ class Ball {
             highlightedBalls = []
             balls.forEach(ball => {
                 if (this.teacher === ball.teacher) {
-                    ball.stroke = 'yellow'
+                    ball.stroke = [120, 255, 120]
                     highlightedBalls.push(ball)
                 }
             })
