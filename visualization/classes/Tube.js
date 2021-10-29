@@ -1,9 +1,11 @@
+days = ["Ponedeljek", "Torek", "Sreda", "Četrtek", "Petek"]
+
 class Tube {
     constructor(x, y, width, height, color, index) {
-        this.x = x / windowWidth;
-        this.y = y / windowHeight;
-        this.width = width / windowWidth;
-        this.height = height / windowHeight;
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = height;
         this.color = color;
         this.index = index;
 
@@ -53,6 +55,15 @@ class Tube {
             this.height * windowHeight
         )
 
+        fill(255, 255, 255)
+        textAlign(LEFT, TOP)
+        textSize((windowHeight + windowWidth) * 0.008);
+        text(
+            this.getDay(this.index),
+            (this.x * windowWidth + this.width * windowWidth / 2) - textWidth( this.getDay(this.index)) * 0.5,
+            this.y * windowHeight + 0.01 * windowHeight
+        )
+
         this.visibleBalls.forEach(ball => {
             ball.display(mouseX, mouseY);
         })
@@ -75,4 +86,9 @@ class Tube {
         })
         this.smooth *= 0.9999
     }
+
+    getDay(number) {
+        return days[number]
+    }
+
 }

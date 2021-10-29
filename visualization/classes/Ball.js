@@ -144,13 +144,9 @@ class Ball {
 
         if (this.isLecture) {
             fill(255, 160 - this.start * 15, 0 - this.start * 15, 255);
-            // strokeWeight(3);
-            // stroke('blue')
         }
         else {
             fill(155 - this.start * 15, 155 - this.start * 15, 255 - this.start * 15, 255);
-            // strokeWeight(3);
-            // stroke(0, 255, 100)
         }
 
         if (this.isMouseOnBall(mouseX, mouseY)) {
@@ -176,20 +172,21 @@ class Ball {
 
     onClick(mouseX, mouseY) {
         if (this.isMouseOnBall(mouseX, mouseY)) {
-            console.log(this)
             highlightedBalls.forEach(ball => {
                 ball.stroke = null
             })
 
             highlightedBalls = []
+            let subjectsSet = new Set()
             balls.forEach(ball => {
                 if (this.teacher === ball.teacher) {
                     ball.stroke = [120, 255, 120]
                     highlightedBalls.push(ball)
+                    subjectsSet.add(ball.name)
                 }
             })
 
-            // this.onClickListener(this)
+            bottomRect.setText(this.teacher + ": " + Array.from(subjectsSet).join(', '))
         }
     }
 

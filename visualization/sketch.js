@@ -3,15 +3,11 @@ let highlightedBalls = []
 let tubes = []
 let rects = []
 
+let topRect;
+let bottomRect;
+
 let padding = 5
 let boundaryPadding = 5
-
-let tubesWidth = 0
-let tubesHeight = 0
-let tubesWidthRatio = 0.98
-let tubesHeightRatio = 0.9
-
-let menuTube;
 
 let dayMapper = {
     "dayMON": 0,
@@ -23,42 +19,34 @@ let dayMapper = {
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
-    tubesWidth = windowWidth * tubesWidthRatio
-    tubesHeight = windowHeight * tubesHeightRatio
 
-    rects.push(new Rect_(
-        // (windowWidth * 0.02) / 2,
+    topRect = new Rect_(
         0,
         0,
-        // (windowHeight * 0.1) / 15,
-        // (windowWidth * 0.98),
-        windowWidth,
-        (windowHeight * 0.1) / 2.5,
+        1,
+        0.1 / 2.5,
         [255, 155, 155]
-        )
-    )
-    rects.push(new Rect_(
-        // (windowWidth * 0.02) / 2,
+    );
+    topRect.addSelection()
+    rects.push(topRect)
+
+    bottomRect = new Rect_(
         0,
-        (windowHeight * 0.96),
-        // (windowHeight * 0.1) / 15 + (windowHeight * 0.947),
-        // (windowWidth * 0.98),
-        windowWidth,
-        (windowHeight * 0.1) / 2.5,
-        // (windowHeight * 0.1) / 2.5,
+        0.96,
+        1,
+        0.1 / 2.5,
         [255, 155, 155]
-        )
-    )
+    );
+    bottomRect.setText("Klikni na krogec.")
+    rects.push(bottomRect)
 
     for (let i = 0; i < 5; i++) {
         tubes.push(
             new Tube(
-                i/5 * windowWidth + (windowHeight * 0.005),
-                // i/5 * windowWidth * 0.98 + (windowWidth * 0.01),
-                (windowHeight * 0.1) / 2,
-                // 1/5 * windowWidth * 0.98,
-                1/5 * windowWidth - (windowHeight * 0.01),
-                windowHeight * 0.9,
+                i/5.3 + 0.005,
+                0.1 / 2,
+                1/5.3 - 0.01,
+                0.9,
                 [130, 50, 125],
                 i
             )
@@ -71,8 +59,6 @@ function setup(){
 function draw() {
     background(255, 255, 255);
 
-    // bottomText = text("HELLO", (windowWidth - tubesWidth) / 2 + padding, (windowHeight - tubesHeight) / 15 + (windowHeight + (1.517 * tubesHeight)) / 2.5)
-
     rects.forEach(rect => {
         rect.display()
     })
@@ -81,6 +67,26 @@ function draw() {
         tube.update(mouseX, mouseY)
         tube.display()
     })
+
+    createGradient(
+        (17/18) * windowWidth,
+        (0.1 / 2) * windowHeight,
+        (1/18 - 0.006) / 2 * windowWidth,
+        0.9 * windowHeight,
+        color(155 - 15 * 15, 155 - 15 * 15, 255 - 15 * 15, 255),
+        color(155, 155, 255, 255),
+        1
+    )
+
+    createGradient(
+        (17/18 + (1/18 - 0.006) / 2) * windowWidth,
+        (0.1 / 2) * windowHeight,
+        (1/18 - 0.006) / 2 * windowWidth,
+        0.9 * windowHeight,
+        color(255, 160 - 15 * 15, 0, 255),
+        color(255, 160, 0, 255),
+        1
+    )
 }
 
 function mousePressed() {
@@ -112,7 +118,7 @@ function createBallsFromFile() {
                         dayNum,
                         data[teacher][subject]['professor'],
                         int(course.start),
-                        int(course.length) * 10 * (tubesWidth + tubesHeight) / 2250,
+                        int(course.length) * 10 * (windowWidth + windowHeight) / 2500,
                         [100, 100, 100],
                         null,
                         {}
@@ -142,3 +148,29 @@ function readTextFile(file, callback) {
     }
     rawFile.send(null);
 }
+
+
+function createGradient(x, y, w, h, c1, c2, axis) {
+    noFill();
+
+    if (axis === 1) {
+        // Top to bottom gradient
+        for (let i = y; i <= y + h; i++) {
+            let inter = map(i, y, y + h, 0, 1);
+            let c = lerpColor(c1, c2, inter);
+            stroke(c);
+            line(x, i, x + w, i);
+            noStroke();
+        }
+    } else if (axis === 2) {
+        // Left to right gradient
+        for (let i = x; i <= x + w; i++) {
+            let inter = map(i, x, x + w, 0, 1);
+            let c = lerpColor(c1, c2, inter);
+            stroke(c);
+            line(i, y, i, y + h);
+            noStroke();
+        }
+    }
+}
+
