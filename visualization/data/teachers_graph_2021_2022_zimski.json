@@ -1,0 +1,4235 @@
+{
+    "Igor Rožanc": {
+        "Algoritmi in podatkovne strukture 1 (63711)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                }
+            ],
+            "professor": false
+        },
+        "Tehnologija programske opreme (63732)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63732",
+                    "shortName": "TPO"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Jurij Mihelič": {
+        "Algoritmi in podatkovne strukture 1 (63711)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63711",
+                    "shortName": "AiPS1"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Petar Vračar": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                }
+            ],
+            "professor": false
+        },
+        "Strojno učenje (63519)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                }
+            ],
+            "professor": false
+        },
+        "Umetna inteligenca (63720)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63720",
+                    "shortName": "UI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Bojan Žunkovič": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63279",
+                    "shortName": "APS1"
+                }
+            ],
+            "professor": false
+        },
+        "Izbrana poglavja iz umetne inteligence 2 (63835E)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "10",
+                    "length": "3",
+                    "id": "63835E",
+                    "shortName": "IPIUI2"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Igor Kononenko": {
+        "Algoritmi in podatkovne strukture 1 (63279)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63279",
+                    "shortName": "APS1"
+                }
+            ],
+            "professor": true
+        },
+        "Strojno učenje (63519)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63519",
+                    "shortName": "SU"
+                }
+            ],
+            "professor": true
+        },
+        "Umetna inteligenca (63720)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63720",
+                    "shortName": "UI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Erik Štrumbelj": {
+        "Bayesova statistika (63563)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63563",
+                    "shortName": "BS"
+                }
+            ],
+            "professor": true
+        },
+        "Načela negotovosti (63564)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63564",
+                    "shortName": "NN"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Jure Demšar": {
+        "Bayesova statistika (63563)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63563",
+                    "shortName": "BS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Mira Trebar": {
+        "Digitalna vezja (63718)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63718",
+                    "shortName": "DV"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63718",
+                    "shortName": "DV"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63718",
+                    "shortName": "DV"
+                }
+            ],
+            "professor": true
+        },
+        "Osnove digitalnih vezij (63204)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniška arhitektura (63703)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Ratko Pilipović": {
+        "Digitalno načrtovanje (63260)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63260",
+                    "shortName": "DN"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63260",
+                    "shortName": "DN"
+                }
+            ],
+            "professor": false
+        },
+        "Organizacija računalniških sistemov (63218)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63218",
+                    "shortName": "ORS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Nejc Ilc": {
+        "Digitalno načrtovanje (63260)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63260",
+                    "shortName": "DN"
+                }
+            ],
+            "professor": true
+        },
+        "Procesna avtomatika (63737)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63737",
+                    "shortName": "PA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63737",
+                    "shortName": "PA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63737",
+                    "shortName": "PA"
+                }
+            ],
+            "professor": true
+        },
+        "Sistemska programska oprema (63736)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63736",
+                    "shortName": "SPO"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Gašper Fijavž": {
+        "Diskretne strukture (63203)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63203",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Damir Franetič": {
+        "Diskretne strukture (63203)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": false
+        },
+        "Matematika (63704)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                }
+            ],
+            "professor": false
+        },
+        "Matematika 1 (63506)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
+                }
+            ],
+            "professor": false
+        },
+        "Matematika 1 (63506A)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63506A",
+                    "shortName": "MI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aleksandra Franc": {
+        "Diskretne strukture (63203)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63203",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": false
+        },
+        "Osnove matematične analize (63202)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                }
+            ],
+            "professor": false
+        },
+        "Topološka analiza podatkov (63542)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63542",
+                    "shortName": "RT"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63542",
+                    "shortName": "RT"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Daša Štesl": {
+        "Diskretne strukture (63705)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": false
+        },
+        "Matematika (63704)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63704",
+                    "shortName": "M"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Jelena Klisara": {
+        "Diskretne strukture (63705)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63705",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": false
+        },
+        "Osnove matematične analize (63202)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aljaž Zalar": {
+        "Diskretne strukture (63705)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63705",
+                    "shortName": "DS"
+                }
+            ],
+            "professor": true
+        },
+        "Numerične metode (63742)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63742",
+                    "shortName": "NM"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Tomaž Hovelja": {
+        "Ekonomika in podjetništvo (63248)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63248",
+                    "shortName": "EiP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63248",
+                    "shortName": "EiP"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Iztok Lapanja": {
+        "Elektronsko in mobilno poslovanje (63712)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "12",
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "13",
+                    "length": "2",
+                    "id": "63712",
+                    "shortName": "EMP"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Rok Rupnik": {
+        "Elektronsko in mobilno poslovanje (63712)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63712",
+                    "shortName": "EMP"
+                }
+            ],
+            "professor": true
+        },
+        "Planiranje in upravljanje informatike (63768)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63768",
+                    "shortName": "PUI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "David Jelenc": {
+        "Elektronsko poslovanje (63249)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63249",
+                    "shortName": "EP"
+                }
+            ],
+            "professor": false
+        },
+        "Informacijska varnost in zasebnost (63521)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63521",
+                    "shortName": "IVZ"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Denis Trček": {
+        "Elektronsko poslovanje (63249)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63249",
+                    "shortName": "EP"
+                }
+            ],
+            "professor": true
+        },
+        "Informacijska varnost in zasebnost (63521)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63521",
+                    "shortName": "IVZ"
+                }
+            ],
+            "professor": true
+        },
+        "Računalniška zvočna produkcija (63523)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63523",
+                    "shortName": "RZP"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Andrej Lozar": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Žiga Gosar": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Andrej PETELIN": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Jaka VODEB": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Borut Paul Kerševan": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Zoran Bosnić": {
+        "Funkcijsko programiranje (63507)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63507",
+                    "shortName": "P"
+                }
+            ],
+            "professor": true
+        },
+        "Izbrana poglavja iz umetne inteligence 1 (63834)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "10",
+                    "length": "3",
+                    "id": "63834",
+                    "shortName": "IPIUI1"
+                }
+            ],
+            "professor": true
+        },
+        "Osnove umetne inteligence (63214)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63214",
+                    "shortName": "OUI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Klemen Klanjšček": {
+        "Funkcijsko programiranje (63507)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63507",
+                    "shortName": "P"
+                }
+            ],
+            "professor": false
+        },
+        "Kriptografija in računalniška varnost (63528)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63528",
+                    "shortName": "KRV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Blaž Meden": {
+        "Grafično oblikovanje (63715)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Iztok Lebar Bajec": {
+        "Grafično oblikovanje (63715)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63715",
+                    "shortName": "GO"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniška grafika (63719)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63719",
+                    "shortName": "RG"
+                }
+            ],
+            "professor": true
+        },
+        "Skupinsko vedenje (63558)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63558",
+                    "shortName": "SV"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63558",
+                    "shortName": "SV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63558",
+                    "shortName": "SV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Narvika Bovcon": {
+        "Grafično oblikovanje (63715)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63715",
+                    "shortName": "GO"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Miha Grohar": {
+        "Informacijski sistemi (63714)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63714",
+                    "shortName": "IS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Damjan Vavpotič": {
+        "Informacijski sistemi (63714)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63714",
+                    "shortName": "IS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Blaž Škrlj": {
+        "Inteligentni sistemi (63266)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Tadej Škvorc": {
+        "Inteligentni sistemi (63266)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63266",
+                    "shortName": "IS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Marko Robnik Šikonja": {
+        "Inteligentni sistemi (63266)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63266",
+                    "shortName": "IS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Borut Batagelj": {
+        "Interaktivnost in oblikovanje informacij (63527)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63527",
+                    "shortName": "IOI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Franc Solina": {
+        "Interaktivnost in oblikovanje informacij (63527)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63527",
+                    "shortName": "IOI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Veljko Pejović": {
+        "Izbrana poglavja iz računalniških sistemov 2 (63831)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "3",
+                    "id": "63831",
+                    "shortName": "IPIRS2"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Aleš Špetič": {
+        "Izbrana poglavja iz računalništva in informatike (63749B)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "5",
+                    "id": "63749B",
+                    "shortName": "IPIRI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "UroŠ Čibej": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                }
+            ],
+            "professor": false
+        },
+        "Tehnične veščine (63284D)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "4",
+                    "id": "63284D",
+                    "shortName": "TV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Luka Fuerst": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                }
+            ],
+            "professor": false
+        },
+        "Programiranje 1 (63277)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63277",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "PROSTO PROSTO": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Borut Robič": {
+        "Izračunljivost in računska zahtevnost (63283)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63283",
+                    "shortName": "IRZ"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Franc Jager": {
+        "Komunikacija človek računalnik (63550)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63550",
+                    "shortName": "KČR"
+                }
+            ],
+            "professor": true
+        },
+        "Obdelava biomedicinskih signalov in slik (63514)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63514",
+                    "shortName": "OBSS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Aleš Smrdel": {
+        "Komunikacija človek računalnik (63550)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63550",
+                    "shortName": "KČR"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aleks Huč": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniška zvočna produkcija (63523)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63523",
+                    "shortName": "RZP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63523",
+                    "shortName": "RZP"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Andrej Brodnik": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Gašper Fele Žorž": {
+        "Komunikacijski protokoli in omrežna varnost (63716)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63716",
+                    "shortName": "KPOV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aleksandar Jurišić": {
+        "Kriptografija in računalniška varnost (63528)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63528",
+                    "shortName": "KRV"
+                }
+            ],
+            "professor": true
+        },
+        "Verjetnost in statistika (63213)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "1",
+                    "id": "63213",
+                    "shortName": "VS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Janoš Vidali": {
+        "Kriptografija in računalniška varnost (63528)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63528",
+                    "shortName": "KRV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Damjan KOBAL": {
+        "Matematika (63704)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63704",
+                    "shortName": "M"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Peter Marijan Kink": {
+        "Matematika 1 (63506)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63506",
+                    "shortName": "MI"
+                }
+            ],
+            "professor": false
+        },
+        "Numerične metode (63742)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63742",
+                    "shortName": "NM"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63742",
+                    "shortName": "NM"
+                }
+            ],
+            "professor": false
+        },
+        "Osnove matematične analize (63202)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63202",
+                    "shortName": "OMA"
+                }
+            ],
+            "professor": false
+        },
+        "Verjetnost in statistika (63213)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Polona Oblak": {
+        "Matematika 1 (63506)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63506",
+                    "shortName": "MI"
+                }
+            ],
+            "professor": true
+        },
+        "Matematika 1 (63506A)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63506A",
+                    "shortName": "MI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Miha Mraz": {
+        "Modeliranje računalniških omrežij (63257)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63257",
+                    "shortName": "MRO"
+                }
+            ],
+            "professor": true
+        },
+        "Nekonvencionalne platforme in metode procesiranja (63512)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63512",
+                    "shortName": "NPMP"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Miha Janež": {
+        "Modeliranje računalniških omrežij (63257)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63257",
+                    "shortName": "MRO"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63257",
+                    "shortName": "MRO"
+                }
+            ],
+            "professor": false
+        },
+        "Nekonvencionalne platforme in metode procesiranja (63512)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63512",
+                    "shortName": "NPMP"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matevž Pesek": {
+        "Multimedijske tehnologije (63734)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63734",
+                    "shortName": "MT"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Alenka Kavčič": {
+        "Multimedijske tehnologije (63734)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "3",
+                    "id": "63734",
+                    "shortName": "MT"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Luka Čehovin Zajc": {
+        "Multimedijski sistemi (63270)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63270",
+                    "shortName": "MS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63270",
+                    "shortName": "MS"
+                }
+            ],
+            "professor": true
+        },
+        "Robotika in računalniško zaznavanje (63739)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63739",
+                    "shortName": "RRZ"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63739",
+                    "shortName": "RRZ"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Gregor Pirš": {
+        "Načela negotovosti (63564)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63564",
+                    "shortName": "NN"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Žiga Pirnar": {
+        "Obdelava biomedicinskih signalov in slik (63514)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63514",
+                    "shortName": "OBSS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Martin Možina": {
+        "Odločitveni sistemi (63741)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63741",
+                    "shortName": "OS"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63741",
+                    "shortName": "OS"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aleksander Sadikov": {
+        "Odločitveni sistemi (63741)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63741",
+                    "shortName": "OS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Robert Rozman": {
+        "Organizacija računalnikov (63717)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63717",
+                    "shortName": "OR"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63717",
+                    "shortName": "OR"
+                }
+            ],
+            "professor": true
+        },
+        "Računalniška arhitektura (63703)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63703",
+                    "shortName": "RA"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Patricio Bulić": {
+        "Organizacija računalniških sistemov (63218)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "11",
+                    "length": "3",
+                    "id": "63218",
+                    "shortName": "ORS"
+                }
+            ],
+            "professor": true
+        },
+        "Vgrajeni sistemi (63738)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63738",
+                    "shortName": "VS"
+                }
+            ],
+            "professor": true
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "12",
+                    "length": "3",
+                    "id": "63735",
+                    "shortName": "VPSA"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Žiga Pušnik": {
+        "Osnove digitalnih vezij (63204)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniška arhitektura (63703)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Lidija Stanovnik": {
+        "Osnove digitalnih vezij (63204)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63204",
+                    "shortName": "ODV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Nikolaj Zimic": {
+        "Osnove digitalnih vezij (63204)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63204",
+                    "shortName": "ODV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Jure Žabkar": {
+        "Osnove kreativnega programiranja (FA) (FA0001)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "10",
+                    "length": "3",
+                    "id": "FA0001",
+                    "shortName": "OKP"
+                }
+            ],
+            "professor": true
+        },
+        "Osnove umetne inteligence (63214)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                }
+            ],
+            "professor": false
+        },
+        "Programiranje 1 (63277)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Janez ŠTER": {
+        "Osnove matematične analize (63202)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63202",
+                    "shortName": "OMA"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Lovro Šubelj": {
+        "Osnove podatkovnih baz (63208)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Marko Rus": {
+        "Osnove podatkovnih baz (63208)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                }
+            ],
+            "professor": false
+        },
+        "Umetno zaznavanje (63267)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Timotej Knez": {
+        "Osnove podatkovnih baz (63208)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63208",
+                    "shortName": "OPB"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Marko Bajec": {
+        "Osnove podatkovnih baz (63208)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63208",
+                    "shortName": "OPB"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Bojan Klemenc": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "10",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                }
+            ],
+            "professor": false
+        },
+        "Tehnologija iger in navidezna resničnost (63740)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63740",
+                    "shortName": "TINR"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63740",
+                    "shortName": "TINR"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Miha Moškon": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "3",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Anita Valmarska": {
+        "Osnove umetne inteligence (63214)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aleš Papič": {
+        "Osnove umetne inteligence (63214)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63214",
+                    "shortName": "OUI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Damjan Fujs": {
+        "Planiranje in upravljanje informatike (63768)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63768",
+                    "shortName": "PUI"
+                }
+            ],
+            "professor": false
+        },
+        "Tehnologija programske opreme (63732)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63732",
+                    "shortName": "TPO"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Aljaž Zrnec": {
+        "Podatkovne baze 2 (63713)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63713",
+                    "shortName": "PB2"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63713",
+                    "shortName": "PB2"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Davor Sluga": {
+        "Porazdeljeni sistemi (63261)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63261",
+                    "shortName": "PS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63261",
+                    "shortName": "PS"
+                }
+            ],
+            "professor": false
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Uroš Lotrič": {
+        "Porazdeljeni sistemi (63261)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63261",
+                    "shortName": "PS"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Melanija Vezočnik": {
+        "Postopki razvoja programske opreme (63254)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63254",
+                    "shortName": "PRPO"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniške storitve v oblaku (63541)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63541",
+                    "shortName": "RSO"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matjaž Jurič": {
+        "Postopki razvoja programske opreme (63254)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63254",
+                    "shortName": "PRPO"
+                }
+            ],
+            "professor": true
+        },
+        "Računalniške storitve v oblaku (63541)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63541",
+                    "shortName": "RSO"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Janez Demšar": {
+        "Programiranje (63502)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "1",
+                    "id": "63502",
+                    "shortName": "P"
+                }
+            ],
+            "professor": false
+        },
+        "Programiranje 1 (63702)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "11",
+                    "length": "3",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63702",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Pavlin Poličar": {
+        "Programiranje 1 (63702)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": false
+        },
+        "Uvod v bioinformatiko (63520)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63520",
+                    "shortName": "UB"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Tomaž Hočevar": {
+        "Programiranje 1 (63702)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Primož Godec": {
+        "Programiranje 1 (63702)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63702",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Marko Poženel": {
+        "Programiranje 1 (63277)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63277",
+                    "shortName": "P1"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Rok Češnovar": {
+        "Računalniška arhitektura (63703)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63703",
+                    "shortName": "RA"
+                }
+            ],
+            "professor": false
+        },
+        "Vgrajeni sistemi (63738)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "2",
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63738",
+                    "shortName": "VS"
+                }
+            ],
+            "professor": false
+        },
+        "Vzporedni in porazdeljeni sistemi in algoritmi (63735)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63735",
+                    "shortName": "VPSA"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Žiga Lesar": {
+        "Računalniška grafika (63719)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63719",
+                    "shortName": "RG"
+                }
+            ],
+            "professor": false
+        },
+        "Računalniška grafika in tehnologija iger (63269)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "11",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matija Marolt": {
+        "Računalniška grafika in tehnologija iger (63269)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63269",
+                    "shortName": "RGTI"
+                }
+            ],
+            "professor": true
+        },
+        "Računalniška podpora oblikovanju I (ALUO) (90066)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "11",
+                    "length": "2",
+                    "id": "90066",
+                    "shortName": "RPOI"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Danijel Skočaj": {
+        "Robotika in računalniško zaznavanje (63739)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63739",
+                    "shortName": "RRZ"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Tomaž Curk": {
+        "Seminar 1 in Seminar 3 (S1S3)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "10",
+                    "length": "3",
+                    "id": "S1S3",
+                    "shortName": "S1S3"
+                }
+            ],
+            "professor": true
+        },
+        "Uvod v bioinformatiko (63520)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63520",
+                    "shortName": "UB"
+                }
+            ],
+            "professor": true
+        },
+        "Uvod v podatkovne vede (63565)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63565",
+                    "shortName": "UPV"
+                }
+            ],
+            "professor": true
+        },
+        "Veščine v znanstvenem delu 1 (63802)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "10",
+                    "length": "3",
+                    "id": "63802",
+                    "shortName": "VZDI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Tomaž Dobravec": {
+        "Sistemska programska oprema (63264)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63264",
+                    "shortName": "SPO"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Timotej Lazar": {
+        "Sistemska programska oprema (63264)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63264",
+                    "shortName": "SPO"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63264",
+                    "shortName": "SPO"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Branko Šter": {
+        "Sistemska programska oprema (63736)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63736",
+                    "shortName": "SPO"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Žiga Emeršič": {
+        "Slikovna biometrija (63554)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63554",
+                    "shortName": "SB"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Peter Peer": {
+        "Slikovna biometrija (63554)": {
+            "courses": [
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63554",
+                    "shortName": "SB"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Sandi Gec": {
+        "Spletno programiranje (63255)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63255",
+                    "shortName": "SP"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Dejan Lavbič": {
+        "Spletno programiranje (63255)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63255",
+                    "shortName": "SP"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Matej Pičulin": {
+        "Strojno učenje (63519)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63519",
+                    "shortName": "SU"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matjaž Pančur": {
+        "Tehnične veščine (63767A)": {
+            "courses": [
+                {
+                    "day": "dayFRI",
+                    "start": "2",
+                    "length": "3",
+                    "id": "63767A",
+                    "shortName": "TV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Aleš Jaklič": {
+        "Tehnologija iger in navidezna resničnost (63740)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "3",
+                    "length": "3",
+                    "id": "63740",
+                    "shortName": "TINR"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Matjaž Kukar": {
+        "Tehnologija upravljanja podatkov (63226)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "6",
+                    "length": "3",
+                    "id": "63226",
+                    "shortName": "TUP"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Luka Šajn": {
+        "Tehnologija upravljanja podatkov (63226)": {
+            "courses": [
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63226",
+                    "shortName": "TUP"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Neža Mramor-Kosta": {
+        "Topološka analiza podatkov (63542)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63542",
+                    "shortName": "RT"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Ivan Bratko": {
+        "Umetna inteligenca 1 (63501)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "4",
+                    "length": "3",
+                    "id": "63501",
+                    "shortName": "UI1"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Jon Muhovič": {
+        "Umetno zaznavanje (63267)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63267",
+                    "shortName": "UZ"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matej Kristan": {
+        "Umetno zaznavanje (63267)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63267",
+                    "shortName": "UZ"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Slavko Žitnik": {
+        "Uvod v podatkovne vede (63565)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63565",
+                    "shortName": "UPV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Rok Gomišček": {
+        "Uvod v računalništvo (63701)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Petar Kochovski": {
+        "Uvod v računalništvo (63701)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "6",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "1",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                }
+            ],
+            "professor": false
+        },
+        "Varnost komunikacij in zaščita vsebin (63289)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63289",
+                    "shortName": "VKZV"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "5",
+                    "length": "2",
+                    "id": "63289",
+                    "shortName": "VKZV"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Vlado Stankovski": {
+        "Uvod v računalništvo (63701)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "5",
+                    "length": "3",
+                    "id": "63701",
+                    "shortName": "UR"
+                }
+            ],
+            "professor": true
+        },
+        "Varnost komunikacij in zaščita vsebin (63289)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "3",
+                    "id": "63289",
+                    "shortName": "VKZV"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Uroš Paščinski": {
+        "Uvod v računalništvo (63701)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matej Dobrevski": {
+        "Uvod v računalništvo (63701)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "4",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayTUE",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                },
+                {
+                    "day": "dayWED",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63701",
+                    "shortName": "UR"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Kristina Veljković": {
+        "Verjetnost in statistika (63213)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "9",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayMON",
+                    "start": "7",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "10",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "3",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "8",
+                    "length": "2",
+                    "id": "63213",
+                    "shortName": "VS"
+                }
+            ],
+            "professor": false
+        }
+    }
+}

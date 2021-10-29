@@ -1,0 +1,93 @@
+{
+    "Borut Paul Kerševan": {
+        "Fizika (63205)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "8",
+                    "length": "3",
+                    "id": "63205",
+                    "shortName": "F"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Aleš Špetič": {
+        "Izbrana poglavja iz računalništva in informatike (63749B)": {
+            "courses": [
+                {
+                    "day": "dayMON",
+                    "start": "2",
+                    "length": "5",
+                    "id": "63749B",
+                    "shortName": "IPIRI"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Miha Moškon": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayFRI",
+                    "start": "5",
+                    "length": "3",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                }
+            ],
+            "professor": true
+        }
+    },
+    "Bojan Klemenc": {
+        "Osnove programiranja (FKKT) (90067)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "11",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                },
+                {
+                    "day": "dayTHU",
+                    "start": "9",
+                    "length": "2",
+                    "id": "90067",
+                    "shortName": "OP-FKKT"
+                }
+            ],
+            "professor": false
+        }
+    },
+    "Matija Marolt": {
+        "Računalniška podpora oblikovanju I (ALUO) (90066)": {
+            "courses": [
+                {
+                    "day": "dayTUE",
+                    "start": "12",
+                    "length": "3",
+                    "id": "90066",
+                    "shortName": "RPOI"
+                }
+            ],
+            "professor": true
+        }
+    }
+}

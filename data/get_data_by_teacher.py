@@ -14,7 +14,7 @@ options = Options()
 options.add_argument("--headless")
 
 driver = webdriver.Chrome(executable_path=os.path.abspath('D:/Programs/Selenium/chromedriver.exe'), options=options)
-driver.get('https://urnik.fri.uni-lj.si/timetable/fri-2021_2022-zimski-1-1')
+driver.get('https://urnik.fri.uni-lj.si/timetable/fri-2019_2020-letni-1-9')
 
 classes_path = '/html/body/div/div/div/table/tbody/tr/td[4]/div/a'
 classes = driver.find_elements(By.XPATH, classes_path)

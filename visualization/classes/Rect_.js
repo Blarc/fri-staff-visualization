@@ -23,12 +23,13 @@ class Rect_ {
             fill(0)
             noStroke();
             textAlign(LEFT, TOP)
-            let textHeight = (windowHeight + windowWidth) * 0.006;
+            let textHeight = (windowHeight + windowWidth) * 0.005;
             textSize(textHeight);
             text(
                 this.text,
                 12,
                 this.y * windowHeight * 1.012,
+                this.width * windowHeight
             )
         }
 
@@ -50,6 +51,12 @@ class Rect_ {
 
     addSelection() {
         this.selection = createSelect();
-        this.selection.option("2020/2021");
+        for (let key in fileNames) {
+            this.selection.option(key)
+        }
+        this.selection.changed(() => {
+            storeItem('timetable', this.selection.value())
+            reset()
+        })
     }
 }

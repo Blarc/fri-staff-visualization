@@ -9,12 +9,42 @@ let bottomRect;
 let padding = 5
 let boundaryPadding = 5
 
+let fileNames = {
+    "2021/2022 - zima": "visualization/data/teachers_graph_2021_2022_zimski.json",
+    "2020/2021 - poletje": "visualization/data/teachers_graph_2020_2021_poletni.json",
+    "2019/2020 - poletje": "visualization/data/teachers_graph_2019_2020_poletni.json"
+}
+
 let dayMapper = {
     "dayMON": 0,
     "dayTUE": 1,
     "dayWED": 2,
     "dayTHU": 3,
     "dayFRI": 4
+}
+
+function reset() {
+    tubes = []
+    for (let i = 0; i < 5; i++) {
+        tubes.push(
+            new Tube(
+                i / 5.3 + 0.005,
+                0.1 / 2,
+                1 / 5.3 - 0.01,
+                0.9,
+                [130, 50, 125],
+                i
+            )
+        )
+    }
+
+    let tmp = getItem('timetable');
+    if (tmp !== null) {
+        topRect.selection.selected(tmp)
+        createBallsFromFile(fileNames[tmp])
+    } else {
+        createBallsFromFile("visualization/data/teachers_graph_2021_2022_zimski.json")
+    }
 }
 
 function setup(){
@@ -40,28 +70,23 @@ function setup(){
     bottomRect.setText("Klikni na krogec.")
     rects.push(bottomRect)
 
-    for (let i = 0; i < 5; i++) {
-        tubes.push(
-            new Tube(
-                i/5.3 + 0.005,
-                0.1 / 2,
-                1/5.3 - 0.01,
-                0.9,
-                [130, 50, 125],
-                i
-            )
-        )
-    }
-
-    createBallsFromFile()
+    reset();
 }
 
 function draw() {
-    background(255, 255, 255);
+    background(240);
 
     rects.forEach(rect => {
         rect.display()
     })
+
+    fill(0)
+    textSize((windowHeight + windowWidth) * 0.005)
+    text("Predavanja in vaje profesorjev in asistentov na Fakulteti za računalništvo in informatiko",
+        windowWidth * 0.01,
+        windowHeight * 0.01
+    )
+
 
     tubes.forEach(tube => {
         tube.update(mouseX, mouseY)
@@ -73,7 +98,7 @@ function draw() {
         (0.1 / 2) * windowHeight,
         (1/18 - 0.006) / 2 * windowWidth,
         0.9 * windowHeight,
-        color(155 - 15 * 15, 155 - 15 * 15, 255 - 15 * 15, 255),
+        color(0, 0, 0, 255),
         color(155, 155, 255, 255),
         1
     )
@@ -83,9 +108,16 @@ function draw() {
         (0.1 / 2) * windowHeight,
         (1/18 - 0.006) / 2 * windowWidth,
         0.9 * windowHeight,
-        color(255, 160 - 15 * 15, 0, 255),
+        color(255, 0, 0, 255),
         color(255, 160, 0, 255),
         1
+    )
+
+    createGradientText(
+        (17/18 + (1/18 - 0.006) / 2) * windowWidth,
+        (0.1 / 4) * windowHeight,
+        (1/18 - 0.006) / 2 * windowWidth,
+        0.9 * windowHeight
     )
 }
 
@@ -102,8 +134,8 @@ function windowResized() {
 }
 
 
-function createBallsFromFile() {
-    readTextFile("visualization/data/teachers_graph_new.json", function(text) {
+function createBallsFromFile(fileName) {
+    readTextFile(fileName, function(text) {
         let data = JSON.parse(text)
 
         for (let teacher in data) {
@@ -171,6 +203,15 @@ function createGradient(x, y, w, h, c1, c2, axis) {
             line(i, y, i, y + h);
             noStroke();
         }
+    }
+}
+
+function createGradientText(x, y, w, h) {
+    let interval = h / 15
+    for (let i = 1; i < 16; i++) {
+        fill(255, 255, 255)
+        textSize((windowHeight + windowWidth) * 0.005)
+        text(22 - i + ":00", x, y + i * interval)
     }
 }
 
