@@ -131,6 +131,7 @@ function mousePressed() {
 
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
+    reset();
 }
 
 
@@ -150,7 +151,7 @@ function createBallsFromFile(fileName) {
                         dayNum,
                         data[teacher][subject]['professor'],
                         int(course.start),
-                        int(course.length) * 10 * (windowWidth + windowHeight) / 2500,
+                        int(course.length) * 10 * (windowWidth + windowHeight) / 2250,
                         [100, 100, 100],
                         null,
                         {}
