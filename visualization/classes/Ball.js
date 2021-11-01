@@ -143,7 +143,7 @@ class Ball {
     display(mouseX, mouseY) {
 
         if (this.isLecture) {
-            fill(255, 160 - this.start * 15, 0 - this.start * 15, 255);
+            fill(255, 160 - this.start * 15, 0, 255);
         }
         else {
             fill(155 - this.start * 15, 155 - this.start * 15, 255 - this.start * 15, 255);

@@ -1,13 +1,11 @@
 class Rect_ {
-    constructor(x, y, width, height, color) {
+    constructor(x, y, width, height, color, legend) {
         this.x = x;
         this.y = y;
         this.width = width;
         this.height = height;
         this.color = color;
-
-
-
+        this.legend = legend;
     }
 
     display() {
@@ -31,6 +29,38 @@ class Rect_ {
                 this.y * windowHeight * 1.012,
                 this.width * windowHeight
             )
+        }
+
+        if (this.legend) {
+            fill(255, 70, 0, 255);
+            ellipse(
+                this.width * 0.7 * windowWidth,
+                this.height * 0.5 * windowHeight,
+                this.height * 0.5 * windowHeight,
+                this.height * 0.5 * windowHeight
+            )
+            fill(0)
+            text(
+                "profesorji",
+                this.width * 0.65 * windowWidth,
+                this.height * 0.5 * windowHeight
+            )
+
+            fill(115, 115, 215, 255);
+            ellipse(
+                this.width * 0.8 * windowWidth,
+                this.height * 0.5 * windowHeight,
+                this.height * 0.5 * windowHeight,
+                this.height * 0.5 * windowHeight
+            )
+
+            fill(0)
+            text(
+                "asistenti",
+                this.width * 0.75 * windowWidth,
+                this.height * 0.5 * windowHeight
+            )
+
         }
 
         if (this.selection) {

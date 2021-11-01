@@ -55,7 +55,8 @@ function setup(){
         0,
         1,
         0.1 / 2.5,
-        [255, 155, 155]
+        [255, 155, 155],
+        true
     );
     topRect.addSelection()
     rects.push(topRect)
@@ -151,7 +152,7 @@ function createBallsFromFile(fileName) {
                         dayNum,
                         data[teacher][subject]['professor'],
                         int(course.start),
-                        int(course.length) * 10 * (windowWidth + windowHeight) / 2250,
+                        int(course.length) * 10 * (windowWidth + windowHeight) / 2500,
                         [100, 100, 100],
                         null,
                         {}
