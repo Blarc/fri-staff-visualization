@@ -137,9 +137,7 @@ function windowResized() {
 
 
 function createBallsFromFile(fileName) {
-    readTextFile(fileName, function(text) {
-        let data = JSON.parse(text)
-
+    loadJSON(fileName, function(data) {
         for (let teacher in data) {
 
             for (let subject in data[teacher]) {
@@ -169,20 +167,6 @@ function createBallsFromFile(fileName) {
         })
     });
 }
-
-
-function readTextFile(file, callback) {
-    let rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", file, true);
-    rawFile.onreadystatechange = function() {
-        if (rawFile.readyState === 4 && rawFile.status === 200) {
-            callback(rawFile.responseText);
-        }
-    }
-    rawFile.send(null);
-}
-
 
 function createGradient(x, y, w, h, c1, c2, axis) {
     noFill();
